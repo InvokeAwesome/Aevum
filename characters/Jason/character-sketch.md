@@ -1,7 +1,7 @@
-##Name 
+## Name 
 Haven't settled on a name yet. The character is vaguely derived from a "Jason" from the original story so I'll go with that for now.
 
-#Place in life at outset:
+## Place in life at outset:
 He is one of 120 Old-Testament-style “Judges” in the same civilization as Zack and Eve.
 
 He is 823 years old
