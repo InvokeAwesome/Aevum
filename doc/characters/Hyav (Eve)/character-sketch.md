@@ -2,7 +2,7 @@
 “Hyav” comes from the semitic root ḥyw, from which the biblical Eve derives her name (“Havah” or “Hawwah”). It means “life,” i.e. "Mother of all the Living" for the biblical Eve.
 
 ## Origin
-Floodless world, near the capital
+Floodless world, near the capital CAPITAL P E T E J
 
 ## Place in life at outset
 She is the bodyguard of Tsadq (Zack), the chief pontiff of her people’s religion. 
