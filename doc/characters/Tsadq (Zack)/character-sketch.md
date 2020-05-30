@@ -1,20 +1,20 @@
-##Name
+## Name
 "Tsadq” comes from the semitic root `ṣdq`, which finds itself in the Hebrew word “Zadok” and others. It has the idea of “righteousness.” He’ll go by “Zack” in the US when he gets here. 
 
-##Place in life at outset
+## Place in life at outset
 He is the recently-elected chief pontiff of the Melchizedekian cult in the floodless world. As an analogue to the Pope in our world, he carries a political clout on par with the Papacy at its height in the Middle Ages, complete with sovereignity over some small but valuable territories.
 
 He is 295 years old (born on the same day as Eve.)
 
 He is married to Eve, who is his bodyguard and third cousin.
 
-##Appearance
+## Appearance
 Up until somewhat recently, he really cared about his physical shape and health. He got himself pretty fit at one point. However the last year has been so stressful that he has let himself go. So he’s got a bit of a beer gut coming and his muscles have atrophied to some extent. But you can still see evidence of muscle tone from his fitness days, especially in his arms. 
 He should faintly resemble Eve, maybe in his hair or eye color.
 
 Floodless people his age usually look around their late 30s / early 40s to us and stay that way for a very long time, only showing increased signs of aging around the 650s. 
 
-##History and character development
+## History and character development
 He and Eve have known each other since childhood, due to their close kinship and the extreme regard for familial relationships in their culture. 
 
 Because his parents were particularly well-positioned and well-respected in the upper echelons of the church, there was always a very good chance that he would become the chief pontiff someday. There had been several pontiffs among his direct ancestors, in fact. 
@@ -37,7 +37,7 @@ They became so popular, in fact, that certain factions wanted to set them up as 
 
 Though there isn’t a precedent for a unifying monarchy in their society, more distant kingdoms have tried it and have done well enough to provoke local envy. 
 
-##Innate personality
+## Innate personality
 Zack is analytical, chatty, and a perfectionist. Like most perfectionists, he strives to correct any perceived fault in himself, and can't understand why others would fail to do the same.
 
 He constantly overthinks things, yet has a natural tendency to let his mouth move faster than his brain. However, he has tempered that flaw over his many years, and developed the habit of pausing intentionally for at least three seconds before saying anything other than an innocuous question. He forgets that habit when he’s tired or hungry or emotionally unstable, and can say hurtful, critical things before he has a chance to catch himself. He also regularly stops mid-sentence to re-phrase his thoughts more precisely, so talking to him can be frustrating for those used to a more natural flow of conversation.
