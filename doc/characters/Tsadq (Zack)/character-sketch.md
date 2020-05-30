@@ -103,7 +103,7 @@ seconds before saying anything other than an innocuous question. He forgets that
 habit when he’s tired or hungry or emotionally unstable, and can say hurtful,
 critical things before he has a chance to catch himself. He also regularly stops
 mid-sentence to re-phrase his thoughts more precisely, so talking to him can be
-frustrating for those used to a more natural flow of conversation.
+tiresome for those used to a more natural flow of conversation.
 
 He inwardly has a high opinion of himself, and despite toning down his pride
 outwardly, he still inwardly harbors a deep-seated superiority complex.
