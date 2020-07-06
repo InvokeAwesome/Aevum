@@ -1,8 +1,7 @@
 ## Chapter 1
 Story opens with a <normal?> day with Grace. We learn enough about her to
-understand where she is in life, and especially her obsession with isekai. 
-
-(Needs serious profluence!)
+understand where she is in life, and especially her obsession with isekai. The
+narrative is written in verse, including character dialogue.
 
 Near the end of the first chapter, she's lying in bed and starts to think about
 life. She's mulling over her recent acceptance of the reality that the world is
@@ -12,6 +11,18 @@ fanciful notion invented by people who couldn't accept the finality of death.
 The narrative gets increasingly abstract for the span of several stanzas, and
 the chapter ends with unresolved questions and some oddly out-of-place word
 pictures.
+
+This chapter needs serious profluence to succeed as a first chapter! This will
+probably be best achieved through contrasting her impossible, childish hopes
+with the bleakness of the reality she has finally come to terms with. Humor and
+the uncommon poetic style will help here too.
+
+The upset isekai expectations are the basic foreshadowing for the plot, but it
+is even more important to foreshadow the moral conclusions of the work here.
+
+We get windows into Grace's thought-life exclusively through her prayers. We
+don't hear her conjectures or inner dialogue until she lifts her thoughts to
+God.
 
 ## Chapter 2 (adapted from notes)
 The language in this chapter is substantially more elevated than the previous or
