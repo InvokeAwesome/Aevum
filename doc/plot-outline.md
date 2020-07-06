@@ -1,6 +1,6 @@
 ## Chapter 1
 Story opens with a <normal?> day with Grace. We learn enough about her to
-understand where she is in life, and especially her obsession with isekai.
+understand where she is in life, and especially her obsession with isekai. 
 
 Near the end of the first chapter, she's lying in bed and starts to think about
 life. She's mulling over her recent acceptance of the reality that the world is
