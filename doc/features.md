@@ -41,6 +41,9 @@ The primary source material will continue to be hosted in a git repository.
 There are a couple of reasons for this:
 
 1. Change management is good for any complex, text-based work
+1. Every time I push changes, it notifies the Discord channel. Commits can be
+   viewed and commented on individually as well in GitHub, so collaborators and
+   advisors can keep up with my progress.
 1. All changes are preserved forever in a historical format. This enables
    interesting textual archaeology.
 1. It allows for branching different versions of the text. This is nice for
