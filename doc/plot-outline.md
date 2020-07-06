@@ -38,7 +38,7 @@ only mouth the words with great difficulty.
 
 Soon, as though sensing a predator approaching, the darkness hesitates, and then
 reluctantly retreats. A pale, and then blinding light appears, and a fiery,
-glowing hand lifts her up. A man's voice says "don't be afraid." Her eyes, up
+glowing hand lifts her up. A man's voice says, "Do not fear." Her eyes, up
 until now being shut tightly with fear, and now because of the light, begin to
 open as the light moves away and inhabits a distant place, behind the crystal
 ocean.
