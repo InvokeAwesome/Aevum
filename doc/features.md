@@ -34,3 +34,34 @@ entity until that point.
 In book format, though, I think we should still use third-person pronouns for
 Grace. Doing otherwise might seem *too* jarring, and make the narrator
 unreliable.
+
+## Medium
+
+The primary source material will continue to be hosted in a git repository.
+There are a couple of reasons for this:
+
+1. Change management is good for any complex, text-based work
+1. All changes are preserved forever in a historical format. This enables
+   interesting textual archaeology.
+1. It allows for branching different versions of the text. This is nice for
+   trying things out while developing the text, but also enables in a unique way
+   a branching "multiverse" narrative. You can have multiple timelines exist in
+   multiple branches in git. After the audience finishes reading the primary
+   branch, they can use a diff comparison against other branches to see how they
+   differ.
+1. It also powerfully enables collaboration. People can leave feedback via
+   GitHub issues, which can be linked to actual text changes, and can also have
+   "pull requests" attached to them where people can propose changes themselves.
+   If anyone has an interest in doing so, they could wind up contributing a
+   substantial amount to the end product.
+1. Related to the above two points, there is the interesting fact that the
+   GitHub collaboration model relies on "forking" (making a copy of) the
+   repository. Anyone can fork the book and make their own edits to their own
+   copy, essentially creating a new timeline in the multiverse. (I would
+   maintain a list of canonical timelines, pointing to different forks that I
+   believed were believable and worthy to be officially recognized.)
+   
+When complete, I will publish the book in print, ebook, and audiobook formats
+commercially. But the source text will always be available in a publicly-hosted
+git repository. The advantage of buying the story (when you could just read it
+here for free) would be a more pleasant reading experience.
