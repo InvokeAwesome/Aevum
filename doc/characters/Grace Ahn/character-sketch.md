@@ -48,11 +48,12 @@ savior-obsession:
     realized.
 
 Her father and mother never separated or anything, and they do relate over a lot
-of things and statistically have a pretty good marriage, but the aforementioned
-hiking incident kind of killed off a good chunk of their relationship. Her mom
-feels tied down and not authorized to impart her adventurousness to her
-children. Her father lives in perpetual worry because of the way his wife takes
-risks, both professionally and whenever she gets the chance with her kids.
+of things and statistically have a pretty good marriage. That said, the
+aforementioned hiking incident kind of killed off a good chunk of their
+relationship. Her mom feels tied down and not authorized to impart her
+adventurousness to her children. Her father lives in perpetual worry because of
+the way his wife takes risks, both professionally and whenever she gets the
+chance to sneak out on an unplanned adventure with her kids.
   * Grace and her brother of course picked right up on this. For Grace, it made
     her want to build a better marriage, so she has very specific standards when
     it comes to men. She’s thought about this stuff a lot.
