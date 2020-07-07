@@ -24,7 +24,7 @@ her fictional heroes.
 It took her until just recently to finally discard those notions and accept
 “real life.”
 
-We learn that her motivations for studying medicine are as follows:
+Her motivations for studying medicine are as follows:
   * She is a hypochondriac and is deathly afraid of something being wrong with
     her body. It became exhausting and expensive to go see medical professionals
     constantly, so she decided to learn how to diagnose and treat herself.
@@ -32,7 +32,7 @@ We learn that her motivations for studying medicine are as follows:
     her savior fantasies. She actually can learn how to save people’s lives,
     after all.
 
-We also learn some historical reasons for both her hypochondria and her
+There are also historical reasons for both her hypochondria and her
 savior-obsession:
   * When she was about 11, her mother, who was fairly adventurous, took their
     family hiking in some mountains. Her father, who was a cautious — or even a
