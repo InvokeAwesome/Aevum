@@ -74,11 +74,11 @@ completionist, so beating these games tends to take quite a while.)
 She has many ambitions and many hobbies, but is a lot better at starting
 projects than finishing them.
 
-Unlike either of her parents, who have been stuck in the lower-middle-class
-forever, she is actually very good with money. She is frugal almost to a fault,
-and has built up impressive savings for someone her age, despite paying for
-college largely on her own. This is how she was able to finance her eventual
-quest to find the B-team.
+Unlike either of her parents, who have been trapped in the lower-middle-class
+because of their spendthrift natures, she is actually rather prudent with her
+money. She is frugal almost to a fault, and has built up impressive savings for
+someone her age, despite paying for college largely on her own. This is how she
+was able to finance her eventual quest to find the "B-team".
 
 She is obsessive, so when she’s a fan of something, she’s a *big* fan. She will
 spend an amazing amount of time researching about and investing in her fandoms.
