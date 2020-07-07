@@ -100,10 +100,12 @@ She prioritized her capacity as a bodyguard over her capacity to be a mother.
 Pontiffs have traditionally been celibate, and Zack broke sharply with tradition
 by taking a wife. (See his doc for why he did this.) Pontiffs were not expected
 to have children and were canonically forbidden from appointing heirs to their
-position. Thus, childbearing was far from desirable for Eve. Despite the
-cultural and dogmatic taboo on the procedure, she had herself sterilized.
-Publicly they said that they were simply not successful at having children, and
-she was assumed to be naturally barren.
+position. Thus, childbearing was far from desirable for Eve, because it would
+not only take her out of commission, but cause their marriage's tenuous
+political legitimacy to come under fire again. Despite the cultural and dogmatic
+taboo on the procedure, she had herself sterilized. Publicly they said that they
+were simply not successful at having children, and she was assumed to be
+naturally barren.
 
 ## Innate personality
 She is acutely empathetic and circumspect. She has spent far more time listening
