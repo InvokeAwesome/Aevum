@@ -72,7 +72,7 @@ flitting her fingers as input, as though typing on an invisible keyboard.
 As pontiffs started being assassinated one after another, she could see Zack's
 paranoia kick in to full gear as he strove towards becoming a candidate. Much of
 his time was spent researching self-defense methods and the latest technology,
-so naturally she began to make herself the best possible defense for him. She
+so naturally she decided to make herself the best possible defense for him. She
 underwent experimental super-soldier enhancements and training, integrating
 every means of increasing her strength that was available to her (no matter how
 dangerous or unproven or illegal.) Miraculously, almost every enhancement
