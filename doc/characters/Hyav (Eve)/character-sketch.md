@@ -65,7 +65,7 @@ addictive. Speaking to her has always been as natural and vital to him as
 breathing.
 
 Her ability to communicate improved along with technology, and she always
-mastered whatever text-to-speech software was currently best. By the time our
+mastered the current cutting-edge text-to-speech software. By the time our
 story starts, she can “speak” with an almost-natural-sounding computer voice by
 flitting her fingers as input, as though typing on an invisible keyboard.
 
