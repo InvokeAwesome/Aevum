@@ -24,7 +24,8 @@ She is 295 years old (born on the same day as Zack)
 She is also married to Zack, the chief pontiff, who is also her third cousin.
 
 ## Appearance
-Due to her extreme enhancements and training, she is abnormally muscular.
+Due to her extreme enhancements and training, she is abnormally muscular. Some
+cybernetic implants are visible as bumps just under the skin.
 
 She makes every effort to accentuate her physical strength through her dress and
 bearing. (This is typical behavior for warriors in their culture.)
