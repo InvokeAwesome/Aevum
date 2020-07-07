@@ -70,7 +70,7 @@ story starts, she can “speak” with an almost-natural-sounding computer voice
 flitting her fingers as input, as though typing on an invisible keyboard.
 
 As pontiffs started getting assassinated one after another, she could see Zack's
-paranoia kick in to full gear as he strove towards becoming a candidate. Much of
+paranoia kick into full gear as he strove towards becoming a candidate. Much of
 his time was spent researching self-defense methods and the latest technology,
 so naturally she decided to make herself the best possible defense for him. She
 underwent experimental super-soldier enhancements and training, integrating
