@@ -121,7 +121,7 @@ But there are some insuppressible quirks that are definitively hers:
     talks only rarely), so this usually manifests in either practical jokes or
     ornery body language.
   * She can usually guess when those actions will ultimately improve or damage
-    her relationships, so she uses them judiciously (rarely at the expense of
+    her relationships, so she uses them judiciously (not at the expense of
     endearing herself in the long run).
   * If she misjudges and plays a prank that only serves to be aggravating (or
     behaves impishly when sobriety is called for), she gets sulky. She rarely
