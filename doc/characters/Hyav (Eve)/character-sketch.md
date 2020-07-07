@@ -14,7 +14,7 @@ She is enjoys a high degree of popular favor due to her amazing super-soldier
 abilities, having successfully defended the pontiff from every assassination
 attempt to date. (This is an unprecedented feat. Almost every recent pontiff has
 either been assassinated or resigned out of fear of a plot. Eve is thus directly
-responsible for a great improvement in the political stability of the realm.)
+responsible for a marked improvement in the political stability of the realm.)
 
 She is mute. No one knows exactly why, but her brain does show some
 physiological abnormalities.
