@@ -130,7 +130,7 @@ But there are some insuppressible quirks that are definitively hers:
 
 Finally, everything she does is 100% self-motivated. The people-pleasing is all
 about improving her standing, influence, or self-satisfaction. She is devoid of
-any shred of altruistic or charitable feeling.
+altruistic or charitable feeling.
   * She is by no means of a logical disposition, and so cannot be considered
     “calculating” with her actions. Rather than planning and manipulating, she
     more or less intuits how best to modify herself to maximize her public
