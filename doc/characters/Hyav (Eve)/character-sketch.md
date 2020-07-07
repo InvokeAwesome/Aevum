@@ -60,7 +60,7 @@ herself the most "optimal" choice for his wife, then her victory would be assure
 
 Being mute, she was an excellent listener, and Zack always loved to ramble to
 her about whatever he was learning or improving about himself. To him, her
-constant, persistent, intentional, and undivided attention was soothing and
+constant, persistent, intentional, and undivided attention was soothing, and
 addictive. Speaking to her has always been natural and vital to him as
 breathing.
 
