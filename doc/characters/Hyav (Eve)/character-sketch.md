@@ -46,10 +46,10 @@ for a few years, and you'll get the picture.)
 She and Zack have known each other since childhood, due to their close kinship
 and the extreme regard for familial relationships in their culture.
 
-She was still young when she realized how great Zack’s potential for success
-was. Despite not being terribly analytical, she had a strong sense of intuition
-that told her that, if she could make herself an essential part of his life, she
-would benefit herself greatly.
+She was still in her minority when she realized how great Zack’s potential for
+success was. Despite not being terribly analytical, she had a strong sense of
+intuition that told her that, if she could make herself an essential part of his
+life, she would benefit herself greatly.
 
 So even as a child, she made sure she spent as much time with him as possible,
 and paid very close attention to his likes and dislikes. She endeavored to adapt
