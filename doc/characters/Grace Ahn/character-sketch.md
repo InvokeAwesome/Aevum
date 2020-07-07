@@ -82,15 +82,23 @@ was able to finance her eventual quest to find the "B-team".
 
 She is obsessive, so when she’s a fan of something, she’s a *big* fan. She will
 spend an amazing amount of time researching about and investing in her fandoms.
-This is integral to her eventual success at finding the B-Team.
+This is integral to her eventual success at tracking down the B-Team.
 
-She is very dissatisfied with “real” life, (hence the Isekai fixation). The
-B-Team and their world is only the first part of how we see this play out. When
-she finds out about her angel, and the vastness of the spiritual realm, she
-almost completely neglects everything mundane (including her family, and even
-the B-Team itself eventually). Unfortunately, this does not mean she becomes
-fixated on the Lord himself, but rather merely the “otherness” of the fullness
-of his creation.
+She is completely dissatisfied with “real” life, hence the Isekai fixation. This
+isn't tied to any particular incident, but she is admittedly unhappy with her
+family's dysfunction and perpetual teetering on the brink of poverty. She also
+can't find any men who fit her standards in this world, (or at least that's her
+excuse for never quite locking down a date.) But there's an even simpler
+explanation for her longing for other worlds: it started as plain old
+chuunibyou, and her uniquely obsessive personality just latched on really hard
+and didn't let go.
+
+The B-Team and their world is only the first part of how we see this fixation
+play out in a practical way. When she finds out about her angel, and the
+vastness of the spiritual realm, she almost completely neglects everything
+mundane (including her family, and even the B-Team itself eventually).
+Unfortunately, this does not mean she becomes fixated on God himself, but rather
+merely the “otherness” of the fullness of his creation.
 
 She is sensitive and has a good sense of how other people feel, so she’s
 basically amiable and easy to like. However, she often struggles to care about
