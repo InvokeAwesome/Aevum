@@ -93,8 +93,8 @@ deregulation and advancement of transhuman enhancements globally. The
 assassination attempts had died out for a while, but began to increase again as
 more people gained access to the same technologies she had. But between
 unlimited funding, a team of the country’s best people, superior intel, her
-ever-sharpening experience, and a genius for personal defense that flowed from
-her instinctive nature, no one could best her. Zack was all too pleased.
+ever-sharpening experience, and a genius for combat that flowed from her
+instinctive nature, no one could best her. Zack was all too pleased.
 
 She prioritized her capacity as a bodyguard over her capacity to be a mother.
 Pontiffs have traditionally been celibate, and Zack broke sharply with tradition
