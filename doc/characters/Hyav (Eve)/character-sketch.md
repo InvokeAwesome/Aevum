@@ -120,7 +120,7 @@ But there are some insuppressible quirks that are definitively hers:
     please them. She hasn’t been able to talk until recently (and even now,
     talks only rarely), so this usually manifests in either practical jokes or
     ornery body language.
-  * But she usually knows when those actions will ultimately improve or damage
+  * She can usually guess when those actions will ultimately improve or damage
     her relationships, so she uses them judiciously (never at the expense of
     endearing herself in the long run).
   * If she misjudges and plays a prank that only serves to be aggravating (or
