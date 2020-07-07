@@ -28,7 +28,8 @@ Due to her extreme enhancements and training, she is abnormally muscular. Some
 cybernetic implants are visible as bumps just under the skin.
 
 She makes every effort to accentuate her physical strength through her dress and
-bearing. (This is typical behavior for warriors in their culture.)
+bearing. (This is typical behavior for warriors in their culture, although it is
+traditionally a masculine pursuit.)
 
 Due to the stress of Zack’s recent climb towards monarchical power, she has
 spent less time training recently. Nevertheless, her genetic, cybernetic, and
