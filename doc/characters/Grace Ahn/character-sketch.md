@@ -35,13 +35,14 @@ Her motivations for studying medicine are as follows:
 There are also historical reasons for both her hypochondria and her
 savior-obsession:
   * When she was about 11, her mother, who was fairly adventurous, took their
-    family hiking in some mountains. Her father, who was a cautious — or even a
-    nervous — person, was worried about risks and didn’t want to go, but she
-    insisted. Her younger brother ended up in a hiking accident and almost died,
-    although fortunately her mother, who was an EMT, saved his life.
-  * After that, whenever her mother tried to make any ambitious plans, her
-    father would use that incident as ammunition to shoot them down. They never
-    really did any trips like it again.
+    family hiking in some mountains. Her father, who was a cautious — or even
+    nervous — person, was worried about the risks and didn’t want to go, but his
+    wife insisted. Her younger brother ended up in a hiking accident and almost
+    died, although fortunately her mother, who was an EMT, saved his life with
+    some timely first-aid.
+  * After that, whenever her mother tried to make any ambitious plans for
+    another adventure, her father would use the above incident as ammunition to
+    shoot them down. They never really did any trips like it again.
   * Grace was influenced by this in that she admired her mother’s ability to
     save her brother, but also saw how her father’s fears had been actually
     realized.
