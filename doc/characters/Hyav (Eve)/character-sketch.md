@@ -39,7 +39,8 @@ wears her full battle suit constantly whenever leaving their fortress.
 Though at her age she should look to be in her late 30s or early 40s, she has
 had countless medical anti-aging procedures. (These only became available
 recently). It has mostly worked, but there are still some lines she can’t quite
-erase without looking fake.
+erase without looking fake. (Imagine a pretty 25-year-old who has been smoking
+for a few years, and you'll get the picture.)
 
 ## History and character development
 She and Zack have known each other since childhood, due to their close kinship
