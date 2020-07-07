@@ -67,8 +67,9 @@ chance to sneak out on an unplanned adventure with her kids.
 She’s smart, and retains information pretty well, but she struggles with
 diligence, academically speaking. She really does have everything it takes to be
 a decent doctor, but her grades suffer because of procrastination. She hates
-this about herself... but then she buys a shiny new PC game and thinks, "Well,
-I'll focus better after I beat this."
+this about herself... but then she buys a shiny new indie game during a Steam
+sale and thinks, "Well, I'll focus better after I beat this." (She's also a
+completionist, so beating these games tends to take quite a while.)
 
 She has many ambitions and many hobbies, but is a lot better at starting
 projects than finishing them.
