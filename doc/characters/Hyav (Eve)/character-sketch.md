@@ -83,7 +83,9 @@ Her efforts paid off (see Zack’s doc).
 
 After Zack took office, her public popularity and influence in his cabinet
 skyrocketed with every thwarted assassination attempt. She became a pop-culture
-icon with an avid fan following.
+icon with an avid fan following. Because she essentially resurrected the
+long-defunct, traditional vestments that wives of clergy used to wear, top
+clothing brands picked up on the style for streetwear. It's pretty trendy now.
 
 The high-profile nature of her successful enhancements also catalyzed the
 deregulation and advancement of transhuman enhancements globally. The
