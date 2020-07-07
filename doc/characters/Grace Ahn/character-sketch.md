@@ -56,7 +56,7 @@ the way his wife takes risks, both professionally and whenever she gets the
 chance to sneak out on an unplanned adventure with her kids.
   * Grace and her brother of course picked right up on this. For Grace, it made
     her want to build a better marriage, so she has very specific standards when
-    it comes to men. She’s thought about this stuff a lot.
+    it comes to men. She’s spent a lot of time thinking about that.
   * She also has both adventurous and nervous tendencies. In any given
     situation, the side that wins out is dependent on how much time she has to
     think about the risks. (So she may jump into a risky situation on the spur
