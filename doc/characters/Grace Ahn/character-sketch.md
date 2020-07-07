@@ -10,16 +10,16 @@ She is Korean American.
 
 Her appearance is plain, and she’s a little bit pudgy.
 
-She’s often frumped out due to laziness and a busy schedule, but she “cleans up
-well.”
+She’s often frumped out due to laziness and a busy schedule, but she cleans up
+well enough.
 
 ## History and character development 
 She first started to become obsessed with the concept of the fantasy hero when
 she was young and started getting into anime and video games.
 
-Her obsession was more than just being a fan… she held onto a belief that
-someday she could and would have an actual fantastic experience like her
-fictional heroes.
+Her obsession was more than just enjoying the media, though… she held onto a
+belief that someday she could and would have an actual fantastic experience like
+her fictional heroes.
 
 It took her until just recently to finally discard those notions and accept
 “real life.”
