@@ -55,8 +55,8 @@ So even as a child, she made sure she spent as much time playing with him as
 possible, and paid very close attention to his likes and dislikes. She
 endeavored to adapt herself to become exactly what he wanted and needed:
 mentally and physically; socially and pragmatically. Because of his idealism and
-tendency to optimize his life, she knew that if she could simply make herself
-the most optimal choice for his wife, then her victory would be assured.
+"optimize everything" approach to life, she knew that if she could simply make
+herself the most optimal choice for his wife, then her victory would be assured.
 
 Being mute, she was an excellent listener, and Zack always loved to ramble to
 her about whatever he was learning or improving about himself. To him, her
