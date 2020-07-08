@@ -1,4 +1,4 @@
-include::doc/vars.adoc[]
+include::../../vars.adoc[]
 
 === Name
 "Tsadq” comes from the semitic root `ṣdq`, which finds itself in the Hebrew word
