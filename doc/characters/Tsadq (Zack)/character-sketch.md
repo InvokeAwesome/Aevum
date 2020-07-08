@@ -50,14 +50,17 @@ now customary. His family didn’t want him to ruin his odds by marrying Eve.
 But Zack is an idealist, and wrestles with himself a great deal when it comes to
 optimal long-term decision-making. Eve had made herself the absolute prime
 choice to be his bodyguard, and he was paranoid to a fault about his personal
-safety, so he weighed his options carefully. (See Eve's doc for how and why she
-did this.)
+safety, so he wanted her to be with him all the time. (See Eve's doc for how and
+why she did this.) This wouldn't have been so hard if the "optimal candidate"
+had been a man, but it is completely taboo in their culture to cohabitate with
+the opposite sex, even in a professional capacity. (And, frankly, he was
+completely infatuated with her. How could he not be?)
 
 He decided that he would remain celibate until he took the throne, and then
 select her as his bodyguard in a merely professional capacity. He was betting
 that public opinion would shift towards wanting him to just go ahead and marry
-her, as it would seem almost scandalous to have her around all the time and yet
-be unmarried.
+her, as it would seem scandalous to have her around all the time and yet be
+unmarried.
 
 (It should be noted that celibacy was not yet a canonical discipline in this
 church, but simply a very well-established custom. Long ago, priests would
