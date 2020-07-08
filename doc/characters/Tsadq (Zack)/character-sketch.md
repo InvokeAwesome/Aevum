@@ -41,12 +41,11 @@ him, because Eve had done a remarkable job of responding to his goals, habits,
 and preferences. He had neither need nor desire to look anywhere else for a
 partner and mate.
 
-However, as it was becoming increasingly apparent that the office of chief
-pontiff would fall to him in his early 50s (young adulthood), he received
-pressure to remain celibate from his parents and other powerful members of his
-family. For a long time now, pontiffs had all maintained celibacy, to the point
-that it was now customary. His family didn’t want him to ruin his odds by
-marrying Eve.
+However, as it was becoming increasingly apparent n his early 50s that the
+office of chief pontiff would one day fall to him, he received pressure to
+remain celibate from his parents and other powerful members of his family. For a
+long time now, pontiffs had all maintained celibacy, to the point that it was
+now customary. His family didn’t want him to ruin his odds by marrying Eve.
 
 But Zack is an idealist, and wrestles with himself a great deal when it comes to
 optimal long-term decision-making. Eve had made herself the absolute prime
