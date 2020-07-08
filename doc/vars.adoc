@@ -1,0 +1,10 @@
+// Zack
+:zk_true-name: Tsadq
+:zk_nickname: Zack
+:zk_outset-age: 295
+
+
+// Eve
+:eve_true-name: Hyav
+:eve_nickname: Eve
+:eve_outset-age: {zk_outset-age}

@@ -1,19 +1,21 @@
-## Name
+include::../../vars.adoc[]
+
+=== Name
 "Tsadq” comes from the semitic root `ṣdq`, which finds itself in the Hebrew word
 “Zadok” and others. It denotes the idea of “righteousness.” He’ll go by “Zack” in
 the US when he gets here.
 
-## Place in life at outset
+=== Place in life at outset
 He is the recently-elected chief pontiff of the Melchizedekian cult in the
 floodless world. As an analogue to the Pope in our world, he carries a political
 clout on par with the Papacy at its height in the Middle Ages, complete with
 sovereignity over some small but valuable territories.
 
-He is 295 years old (born on the same day as Eve.)
+He is {zk_outset-age} years old (born on the same day as Eve.)
 
 He is married to Eve, who is his bodyguard and third cousin.
 
-## Appearance
+=== Appearance
 Up until somewhat recently, he really cared about his physical shape and health.
 He got himself pretty fit at one point. However the last year has been so
 stressful that he has let himself go. So he’s got a bit of a beer gut coming and
@@ -25,7 +27,7 @@ Floodless people his age usually look around their late 30s / early 40s to us
 and stay that way for a very long time, only showing increased signs of aging
 around the 650s.
 
-## History and character development
+=== History and character development
 He and Eve have known each other since childhood, due to their close kinship and
 the extreme regard for familial relationships in their culture.
 
@@ -96,7 +98,7 @@ movement, and they had successfully worked themselves into the center of it.
 Though there isn’t a precedent for a unifying monarchy in their society, more
 distant kingdoms have tried it and have done well enough to provoke local envy.
 
-## Innate personality
+=== Innate personality
 Zack is analytical, chatty, and a perfectionist. Like most perfectionists, he
 strives to correct any perceived fault in himself, and can't understand why
 others would fail to do the same. 
