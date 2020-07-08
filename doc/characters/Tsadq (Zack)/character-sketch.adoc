@@ -1,4 +1,5 @@
 include::../../vars.adoc[]
+:zk_outset-age: 295
 
 === Name
 "Tsadq” comes from the semitic root `ṣdq`, which finds itself in the Hebrew word
