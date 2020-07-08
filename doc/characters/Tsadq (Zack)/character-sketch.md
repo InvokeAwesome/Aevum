@@ -99,7 +99,7 @@ distant kingdoms have tried it and have done well enough to provoke local envy.
 ## Innate personality
 Zack is analytical, chatty, and a perfectionist. Like most perfectionists, he
 strives to correct any perceived fault in himself, and can't understand why
-others would fail to do the same.
+others would fail to do the same. 
 
 He constantly overthinks things, yet has a natural tendency to let his mouth
 move faster than his brain. However, he has tempered that flaw over his many
