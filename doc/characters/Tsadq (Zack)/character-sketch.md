@@ -70,10 +70,12 @@ and usually had to do with an urgent necessity to preserve a family's
 patrilineage. Zack happened to also be in this situation, being the only son in
 his immediate family, which lent legitimacy to the move.)
 
-Zack's plan worked, and the damage to his reputation was only temporary. Eve’s
-constant presence had saved his life a few times in really spectacular ways, so
-since things were working out really well, the public got used to having a
-married pontiff again.
+After 200 years, Zack was finally elevated to the office he desired. His plan to
+justify a marriage worked, and the damage to his reputation was only temporary.
+Even in the first few months of his reign, Eve’s constant presence had saved his
+life a few times in really spectacular ways, which would not have been possible
+unless they lived together. Since things were working out really well, the
+public got used to having a married pontiff again.
 
 Every one of pontiffs in recent memory had been assassinated within a decade of
 taking office, but with Eve at the head of his retinue, even the most
