@@ -1,6 +1,6 @@
 ## Name
 "Tsadq” comes from the semitic root `ṣdq`, which finds itself in the Hebrew word
-“Zadok” and others. It has the idea of “righteousness.” He’ll go by “Zack” in
+“Zadok” and others. It denotes the idea of “righteousness.” He’ll go by “Zack” in
 the US when he gets here.
 
 ## Place in life at outset
