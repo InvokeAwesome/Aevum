@@ -79,8 +79,9 @@ public got used to having a married pontiff again.
 
 Every one of pontiffs in recent memory had been assassinated within a decade of
 taking office, but with Eve at the head of his retinue, even the most
-sophisticated and deadly attacks to date were thwarted. The political stability
-afforded by the arrangement paid off in spades for their public esteem.
+sophisticated, multi-pronged attacks to date were thwarted in style. The
+political stability afforded by the arrangement paid off in spades for their
+public esteem.
 
 They became so popular, in fact, that certain factions wanted to set them up as
 titular monarchs. Their civilization was mostly held together by an Old
