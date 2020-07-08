@@ -19,7 +19,7 @@ He got himself pretty fit at one point. However the last year has been so
 stressful that he has let himself go. So he’s got a bit of a beer gut coming and
 his muscles have atrophied to some extent. But you can still see evidence of
 muscle tone from his fitness days, especially in his arms. He should faintly
-resemble Eve, maybe in his hair or eye color.
+resemble Eve, maybe in his hair or eye color. (They're distantly related.)
 
 Floodless people his age usually look around their late 30s / early 40s to us
 and stay that way for a very long time, only showing increased signs of aging
