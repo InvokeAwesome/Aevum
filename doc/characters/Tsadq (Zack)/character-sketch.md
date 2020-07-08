@@ -110,12 +110,15 @@ critical things before he has a chance to catch himself. He also regularly stops
 mid-sentence to re-phrase his thoughts more precisely, so talking to him can be
 tiresome for those used to a more natural flow of conversation.
 
-He inwardly has a high opinion of himself, and despite toning down his pride
-outwardly, he still inwardly harbors a deep-seated superiority complex.
+Though he tries to be careful with his words, he is inquisitive to a fault. He's
+usually the one driving conversations, mostly by asking a lot of overly-specific
+questions. This can make people uncomfortable, as he tends to "pry."
 
-Though he tries to be careful with his words, he is inquisitive to a fault, and
-is usually the one driving conversations, mostly by asking a lot of
-overly-specific questions.
+It should be noted that these flaws are mostly manifested in private
+conversation. In public addresses he's an absolute rock star.
+
+He inwardly has a high opinion of himself, and despite toning down his pride
+outwardly, he still harbors an inveterate superiority complex.
 
 He used to be a pretty big jerk because of his pride and critical nature, but
 has become more likable after intentionally refining his personality for a long
