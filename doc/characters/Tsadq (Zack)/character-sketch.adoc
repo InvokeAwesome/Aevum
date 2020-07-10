@@ -1,5 +1,9 @@
 include::../../vars.adoc[]
 
+:zk_true-name: Tsadq
+:zk_nickname: Zack
+:zk_outset-age: 295
+
 === Name
 
 "{zk_true-name}” comes from the semitic root `ṣdq`, which finds itself in the
