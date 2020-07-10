@@ -1,11 +1,13 @@
 include::../../vars.adoc[]
 
 === Name
-"Tsadq” comes from the semitic root `ṣdq`, which finds itself in the Hebrew word
-“Zadok” and others. It denotes the idea of “righteousness.” He’ll go by “Zack” in
-the US when he gets here.
+
+"{zk_true-name}” comes from the semitic root `ṣdq`, which finds itself in the
+Hebrew word “Zadok” and others. It denotes the idea of “righteousness.” He’ll go
+by “{zk_nickname}” in our world when he gets here.
 
 === Place in life at outset
+
 He is the recently-elected chief pontiff of the Melchizedekian cult in the
 floodless world. As an analogue to the Pope in our world, he carries a political
 clout on par with the Papacy at its height in the Middle Ages, complete with
@@ -16,6 +18,7 @@ He is {zk_outset-age} years old (born on the same day as Eve.)
 He is married to Eve, who is his bodyguard and third cousin.
 
 === Appearance
+
 Up until somewhat recently, he really cared about his physical shape and health.
 He got himself pretty fit at one point. However the last year has been so
 stressful that he has let himself go. So he’s got a bit of a beer gut coming and
@@ -28,6 +31,7 @@ and stay that way for a very long time, only showing increased signs of aging
 around the 650s.
 
 === History and character development
+
 He and Eve have known each other since childhood, due to their close kinship and
 the extreme regard for familial relationships in their culture.
 
@@ -49,14 +53,14 @@ remain celibate from his parents and other powerful members of his family. For a
 long time now, pontiffs had all maintained celibacy, to the point that it was
 now customary. His family didn’t want him to ruin his odds by marrying Eve.
 
-But Zack is an idealist, and wrestles with himself a great deal when it comes to
-optimal long-term decision-making. Eve had made herself the absolute prime
-choice to be his bodyguard, and he was paranoid to a fault about his personal
-safety, so he wanted her to be with him all the time. (See Eve's doc for how and
-why she did this.) This wouldn't have been so hard if the "optimal candidate"
-had been a man, but it is completely taboo in their culture to cohabitate with
-the opposite sex, even in a professional capacity. (And, frankly, he was
-completely infatuated with her. How could he not be?)
+But {zk_nickname} is an idealist, and wrestles with himself a great deal when it
+comes to optimal long-term decision-making. Eve had made herself the absolute
+prime choice to be his bodyguard, and he was paranoid to a fault about his
+personal safety, so he wanted her to be with him all the time. (See Eve's doc
+for how and why she did this.) This wouldn't have been so hard if the "optimal
+candidate" had been a man, but it is completely taboo in their culture to
+cohabitate with the opposite sex, even in a professional capacity. (And,
+frankly, he was completely infatuated with her. How could he not be?)
 
 He decided that he would remain celibate until he took the throne, and then
 select her as his bodyguard in a merely professional capacity. He was betting
@@ -69,15 +73,15 @@ church, but simply a very well-established custom. Long ago, priests would
 sometimes marry after their ordination, and there was even one historical
 example of a chief pontiff doing so. This was done only on an exceptional basis,
 and usually had to do with an urgent necessity to preserve a family's
-patrilineage. Zack happened to also be in this situation, being the only son in
-his immediate family, which lent legitimacy to the move.)
+patrilineage. {zk_nickname} happened to also be in this situation, being the
+only son in his immediate family, which lent legitimacy to the move.)
 
-After 200 years, Zack was finally elevated to the office he desired. His plan to
-justify a marriage worked, and the damage to his reputation was only temporary.
-Even in the first few months of his reign, Eve’s constant presence had saved his
-life a few times in really spectacular ways, which would not have been possible
-unless they lived together. Since things were working out really well, the
-public got used to having a married pontiff again.
+After 200 years, {zk_nickname} was finally elevated to the office he desired.
+His plan to justify a marriage worked, and the damage to his reputation was only
+temporary. Even in the first few months of his reign, Eve’s constant presence
+had saved his life a few times in really spectacular ways, which would not have
+been possible unless they lived together. Since things were working out really
+well, the public got used to having a married pontiff again.
 
 Every one of pontiffs in recent memory had been assassinated within a decade of
 taking office, but with Eve at the head of his retinue, even the most
@@ -92,16 +96,18 @@ alliances. This system was losing credibility in modern political discourse, and
 the tide had been growing for some time now in favor of a unified monarchy.
 (While the chief pontiff enjoyed a great deal of political influence, he did not
 have direct authority over the secular management of most territories in the
-realm.) The stability and charisma of Zack and Eve became the icon for this
-movement, and they had successfully worked themselves into the center of it.
+realm.) The stability and charisma of {zk_nickname} and Eve became the icon for
+this movement, and they had successfully worked themselves into the center
+of it.
 
 Though there isn’t a precedent for a unifying monarchy in their society, more
 distant kingdoms have tried it and have done well enough to provoke local envy.
 
 === Innate personality
-Zack is analytical, chatty, and a perfectionist. Like most perfectionists, he
-strives to correct any perceived fault in himself, and can't understand why
-others would fail to do the same. 
+
+{zk_nickname} is analytical, chatty, and a perfectionist. Like most
+perfectionists, he strives to correct any perceived fault in himself, and can't
+understand why others would fail to do the same.
 
 He constantly overthinks things, yet has a natural tendency to let his mouth
 move faster than his brain. However, he has tempered that flaw over his many
