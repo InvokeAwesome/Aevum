@@ -17,7 +17,7 @@ include::../../vars.adoc[]
 
 === Place in life at outset
 
-She is {mc_outset-age} in college, studying medicine as an undergrad in {mc_outset-location}.
+She is {mc_outset-age}, in college, studying medicine as an undergrad in {mc_outset-location}.
 
 She is a regular {mc_ethnicity} evangelical church-goer, but her faith is much less apparent Monday through Saturday
 
