@@ -1,16 +1,25 @@
-## Place in life at outset
+include::../../vars.adoc[]
+
+:mc_first-name: Grace
+:mc_last-name: Ahn
+:mc_outset-age: 23
+
+=== Place in life at outset
+
 She is in her early 20s, in college, studying medicine as an undergrad in Columbus, Ohio.
 
 She is a regular Korean evangelical church-goer, but her faith is much less apparent Monday through Saturday
 
-## Appearance 
+=== Appearance 
+
 She is Korean American.
 
 Her appearance is plain, and she’s a little bit pudgy.
 
 She’s often frumped out due to laziness and a busy schedule, but she cleans up well enough.
 
-## History and character development 
+=== History and character development 
+
 She first started to become obsessed with the concept of the fantasy hero when she was young and started getting into anime and video games.
 
 Her obsession was more than just enjoying the media, though… she held onto a belief that someday she could and would have an actual fantastic experience like her fictional heroes.
@@ -18,19 +27,20 @@ Her obsession was more than just enjoying the media, though… she held onto a b
 It took her until just recently to finally discard those notions and accept “real life.”
 
 Her motivations for studying medicine are as follows:
-  * She is a hypochondriac and is deathly afraid of something being wrong with her body. It became exhausting and expensive to go see medical professionals constantly, so she decided to learn how to diagnose and treat herself.
-  * She figures that being a doctor is the best way to realistically play out her savior fantasies. She actually can learn how to save people’s lives, after all.
+* She is a hypochondriac and is deathly afraid of something being wrong with her body. It became exhausting and expensive to go see medical professionals constantly, so she decided to learn how to diagnose and treat herself.
+* She figures that being a doctor is the best way to realistically play out her savior fantasies. She actually can learn how to save people’s lives, after all.
 
 There are also historical reasons for both her hypochondria and her savior-obsession:
-  * When she was about 11, her mother, who was fairly adventurous, took their family hiking in some mountains. Her father, who was a cautious — or even nervous — person, was worried about the risks and didn’t want to go, but his wife insisted. Her younger brother ended up in a hiking accident and almost died, although fortunately her mother, who was an EMT, saved his life with some timely first-aid.
-  * After that, whenever her mother tried to make any ambitious plans for another adventure, her father would use the above incident as ammunition to shoot them down. They never really did any trips like it again.
-  * Grace was influenced by this in that she admired her mother’s ability to save her brother, but also saw how her father’s fears had been actually realized.
+* When she was about 11, her mother, who was fairly adventurous, took their family hiking in some mountains. Her father, who was a cautious — or even nervous — person, was worried about the risks and didn’t want to go, but his wife insisted. Her younger brother ended up in a hiking accident and almost died, although fortunately her mother, who was an EMT, saved his life with some timely first-aid.
+* After that, whenever her mother tried to make any ambitious plans for another adventure, her father would use the above incident as ammunition to shoot them down. They never really did any trips like it again.
+* Grace was influenced by this in that she admired her mother’s ability to save her brother, but also saw how her father’s fears had been actually realized.
 
 Her father and mother never separated or anything, and they do relate over a lot of things and statistically have a pretty good marriage. That said, the aforementioned hiking incident kind of killed off a good chunk of their relationship. Her mom feels tied down and not authorized to impart her adventurousness to her children. Her father lives in perpetual worry because of the way his wife takes risks, both professionally and whenever she gets the chance to sneak out on an unplanned adventure with her kids.
-  * Grace and her brother of course picked right up on this. For Grace, it made her want to build a better marriage, so she has very specific standards when it comes to men. She’s spent a lot of time thinking about that.
-  * She also has both adventurous and nervous tendencies. In any given situation, the side that wins out is dependent on how much time she has to think about the risks. (So she may jump into a risky situation on the spur of the moment, but if she's had enough time to think about it, she probably won't.)
+* Grace and her brother of course picked right up on this. For Grace, it made her want to build a better marriage, so she has very specific standards when it comes to men. She’s spent a lot of time thinking about that.
+* She also has both adventurous and nervous tendencies. In any given situation, the side that wins out is dependent on how much time she has to think about the risks. (So she may jump into a risky situation on the spur of the moment, but if she's had enough time to think about it, she probably won't.)
 
-## Innate personality 
+=== Innate personality 
+
 She’s smart, and retains information pretty well, but she struggles with diligence, academically speaking. She really does have everything it takes to be a decent doctor, but her grades suffer because of procrastination. She hates this about herself... but then she buys a shiny new indie game during a Steam sale and thinks, "Well, I'll focus better after I beat this." (She's also a completionist, so beating these games tends to take quite a while.)
 
 She has many ambitions and many hobbies, but is a lot better at starting projects than finishing them.
