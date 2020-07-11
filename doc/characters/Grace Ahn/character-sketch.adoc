@@ -6,6 +6,7 @@ include::../../vars.adoc[]
 :mc_outset-age: 23
 :mc_outset-location: Columbus, OH
 :mc_ethnicity: Korean
+:mc_trauma-age: 11
 
 // Sibling
 :mc_sibling: younger brother
@@ -44,7 +45,7 @@ Her motivations for studying medicine are as follows:
 * She figures that being a doctor is the best way to realistically play out her savior fantasies. She actually can learn how to save people’s lives, after all.
 
 There are also historical reasons for both her hypochondria and her savior-obsession:
-* When she was about 11, her mother, who was fairly adventurous, took their family hiking in some mountains. Her father, who was a cautious — or even nervous — person, was worried about the risks and didn’t want to go, but his wife insisted. Her {mc_sibling} ended up in a hiking accident and almost died, although fortunately her mother, who was an EMT, saved {sib_pro} life with some timely first-aid.
+* When she was about {mc_trauma-age}, her mother, who was fairly adventurous, took their family hiking in some mountains. Her father, who was a cautious — or even nervous — person, was worried about the risks and didn’t want to go, but his wife insisted. Her {mc_sibling} ended up in a hiking accident and almost died, although fortunately her mother, who was an EMT, saved {sib_pro} life with some timely first-aid.
 * After that, whenever her mother tried to make any ambitious plans for another adventure, her father would use the above incident as ammunition to shoot them down. They never really did any trips like it again.
 * {mc_name} was influenced by this in that she admired her mother’s ability to save {sib_name}, but also saw how her father’s fears had been actually realized.
 
