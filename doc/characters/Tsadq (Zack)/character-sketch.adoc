@@ -1,5 +1,3 @@
-// See https://github.com/github/markup/issues/1095. We have to copy-paste
-// vars for now.
 include::../../vars.adoc[]
 
 :zk_true-name: Tsadq
