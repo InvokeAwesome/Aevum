@@ -1,4 +1,4 @@
-## Chapter 1
+== Chapter 1
 Story opens with a <normal?> day with Grace. We learn enough about her to
 understand where she is in life, and especially her obsession with isekai. The
 narrative is written in verse, including character dialogue.
@@ -24,7 +24,7 @@ We get windows into Grace's thought-life exclusively through her prayers. We
 don't hear her conjectures or inner dialogue until she lifts her thoughts to
 God.
 
-## Chapter 2 (adapted from notes)
+== Chapter 2 (adapted from notes)
 The language in this chapter is substantially more elevated than the previous or
 subsequent chapters.
 
@@ -85,7 +85,7 @@ struggles to find words to describe it, she remembers everything clearly. She
 spends a lot of time in prayer that night and doesn't fall back to sleep until
 two hours before she has to get up for school.
 
-## Chapter 3
+== Chapter 3
 
 That day she falls asleep in class and has a really goofy dream that her
 childhood superheroes appeared and scooped her up, just like she'd always
