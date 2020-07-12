@@ -35,7 +35,12 @@
 == Plot Outline
 
 === Chapter 1
-Story opens with a <normal?> day with Grace. We learn enough about her to understand where she is in life, and especially her obsession with isekai. The narrative is written in verse, including character dialogue.
+Story opens with a <normal?> day with Grace. We learn enough about her to understand where she is in life, and especially her obsession with https://en.wikipedia.org/wiki/Isekai[isekai]. The narrative is written in verse, including character dialogue.
+
+
+****
+TODO: Really think about how this first day should go. We need a hook apart from the unusual style and (hopefully) strong characterization.
+****
 
 Near the end of the first chapter, she's lying in bed and starts to think about life. She's mulling over her recent acceptance of the reality that the world is inescapably mundane. This emotional pendulum is swinging so far from its previous state that she even questions her faith... God seems to be yet another fanciful notion invented by people who couldn't accept the finality of death. The narrative gets increasingly abstract for the span of several stanzas, and the chapter ends with unresolved questions and some oddly out-of-place word pictures.
 
