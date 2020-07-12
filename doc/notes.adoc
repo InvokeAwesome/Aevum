@@ -1,3 +1,7 @@
+// Document
+:toc2:
+:toclevels: 4
+
 // Main Character
 :mc_name: Grace
 :mc_surname: Ahn
@@ -26,14 +30,14 @@
 :zk_nickname: Eve
 :zk_outset-age: 295
 
-= Table of Contents
-:toc:
+= Aevum Notes
 
-= Characters
 
-== Grace Ahn
+== Characters
 
-=== Place in life at outset
+=== Grace Ahn
+
+==== Place in life at outset
 
 She is {mc_outset-age}, in college, studying medicine as an undergrad in {mc_outset-location}.
 
@@ -41,7 +45,7 @@ She is a regular {mc_ethnicity} evangelical church-goer, but her faith is much l
 
 She has a {mc_sibling} named {sib_name}, that is in high school and still lives with their parents.
 
-=== Appearance 
+==== Appearance 
 
 She is {mc_ethnicity} American.
 
@@ -49,7 +53,7 @@ Her appearance is plain, and she’s a little bit pudgy.
 
 She’s often frumped out due to laziness and a busy schedule, but she cleans up well enough.
 
-=== History and character development 
+==== History and character development 
 
 She first started to become obsessed with the concept of the fantasy hero when she was young and started getting into anime and video games.
 
@@ -72,7 +76,7 @@ Her father and mother never separated or anything, and they do relate over a lot
 * {mc_name} and her {mc_sibling} of course picked right up on this. For {mc_name}, it made her want to build a better marriage, so she has very specific standards when it comes to men. She’s spent a lot of time thinking about that.
 * She also has both adventurous and nervous tendencies. In any given situation, the side that wins out is dependent on how much time she has to think about the risks. (So she may jump into a risky situation on the spur of the moment, but if she's had enough time to think about it, she probably won't.)
 
-=== Innate personality 
+==== Innate personality 
 
 She’s smart, and retains information pretty well, but she struggles with diligence, academically speaking. She really does have everything it takes to be a decent doctor, but her grades suffer because of procrastination. She hates this about herself... but then she buys a shiny new indie game during a Steam sale and thinks, "Well, I'll focus better after I beat this." (She's also a completionist, so beating these games tends to take quite a while.)
 
@@ -89,13 +93,13 @@ The {ow_group-nickname} and their world is only the first part of how we see thi
 She is sensitive and has a good sense of how other people feel, so she’s basically amiable and easy to like. However, she often struggles to care about or do anything out of her way to actually address the negative feelings she senses in other people.
 
 
-== Zack
+=== Zack
 
-=== Name
+==== Name
 
 "{zk_true-name}” comes from the semitic root `ṣdq`, which finds itself in the Hebrew word “Zadok” and others. It denotes the idea of “righteousness.” He’ll go by “{zk_nickname}” in our world when he gets here.
 
-=== Place in life at outset
+==== Place in life at outset
 
 He is the recently-elected chief pontiff of the {ow_religion} in the floodless world. As an analogue to the Pope in our world, he carries a political clout on par with the Papacy at its height in the Middle Ages, complete with sovereignity over some small but valuable territories.
 
@@ -103,13 +107,13 @@ He is {zk_outset-age} years old (born on the same day as Eve.)
 
 He is married to Eve, who is his bodyguard and third cousin.
 
-=== Appearance
+==== Appearance
 
 Up until somewhat recently, he really cared about his physical shape and health. He got himself pretty fit at one point. However the last year has been so stressful that he has let himself go. So he’s got a bit of a beer gut coming and his muscles have atrophied to some extent. But you can still see evidence of muscle tone from his fitness days, especially in his arms. He should faintly resemble Eve, maybe in his hair or eye color. (They're distantly related.)
 
 Floodless people his age usually look around their late 30s / early 40s to us and stay that way for a very long time, only showing increased signs of aging around the 650s.
 
-=== History and character development
+==== History and character development
 
 He and Eve have known each other since childhood, due to their close kinship and the extreme regard for familial relationships in their culture.
 
@@ -133,7 +137,7 @@ They became so popular, in fact, that certain factions wanted to set them up as 
 
 Though there isn’t a precedent for a unifying monarchy in their society, more distant kingdoms have tried it and have done well enough to provoke local envy.
 
-=== Innate personality
+==== Innate personality
 
 {zk_nickname} is analytical, chatty, and a perfectionist. Like most perfectionists, he strives to correct any perceived fault in himself, and can't understand why others would fail to do the same.
 
@@ -150,15 +154,15 @@ He used to be a pretty big jerk because of his pride and critical nature, but ha
 However, despite his carefully-groomed external charisma, nothing about him is charitable. Everything he does is ultimately for himself, and he often uses others to his own advantage. His preference is to find a “win-win,” but he doesn’t hesitate to step on people when such a solution can't be found. His relationship with Eve is one such "win-win," but he has grown so accustomed to viewing her as an asset that he scarcely ever looks at her through the eyes of selfless love.
 
 
-== Eve
+=== Eve
 
-=== Name 
+==== Name 
 “{ev_true-name}” comes from the semitic root ḥyw, from which the biblical Eve derives her name (“Havah” or “Hawwah”). It means “life,” i.e. "Mother of all the Living" for the biblical Eve.
 
-=== Origin
+==== Origin
 Floodless world, near the capital
 
-=== Place in life at outset
+==== Place in life at outset
 She is the bodyguard of Tsadq (Zack), the chief pontiff of her people’s religion.
 
 She is enjoys a high degree of popular favor due to her amazing super-soldier abilities, having successfully defended the pontiff from every assassination attempt to date. (This is an unprecedented feat. Almost every recent pontiff has either been assassinated or resigned out of fear of a plot. Eve is thus directly responsible for a marked improvement in the political stability of the realm.)
@@ -169,7 +173,7 @@ She is 295 years old (born on the same day as Zack)
 
 She is also married to Zack, the chief pontiff, who is also her third cousin.
 
-=== Appearance
+==== Appearance
 Due to her extreme enhancements and training, she is abnormally muscular. Some cybernetic implants are visible as bumps just under the skin.
 
 She makes every effort to accentuate her physical strength through her dress and bearing. (This is typical behavior for warriors in their culture, although it is traditionally a masculine pursuit.)
@@ -178,7 +182,7 @@ Due to the stress of Zack’s recent climb towards monarchical power, she has sp
 
 Though at her age she should look to be in her late 30s or early 40s, she has had countless medical anti-aging procedures. (These only became available recently). It has mostly worked, but there are still some lines she can’t quite erase without looking fake. (Imagine a pretty 25-year-old who has been smoking for a few years, and you'll get the picture.)
 
-=== History and character development
+==== History and character development
 She and Zack have known each other since childhood, due to their close kinship and the extreme regard for familial relationships in their culture.
 
 She was still in her minority when she realized how great Zack’s potential for success was. Despite not being terribly analytical, she had a strong sense of intuition that told her that, if she could make herself an essential part of his life, she would benefit herself greatly.
@@ -199,7 +203,7 @@ The high-profile nature of her successful enhancements also catalyzed the deregu
 
 She prioritized her capacity as a bodyguard over her capacity to be a mother. Pontiffs have traditionally been celibate, and Zack broke sharply with tradition by taking a wife. (See his doc for why he did this.) Pontiffs were not expected to have children and were canonically forbidden from appointing heirs to their position. Thus, childbearing was far from desirable for Eve, because it would not only take her out of commission, but cause their marriage's tenuous political legitimacy to come under fire again. Despite the cultural and dogmatic taboo on the procedure, she had herself secretly sterilized. Publicly they said that they were simply not successful at having children, and she was assumed to be naturally barren.
 
-=== Innate personality
+==== Innate personality
 She is acutely empathetic and circumspect. She has spent far more time listening than expressing (because of her muteness), but this is only one cause of this trait. She is also more outwardly-focused by nature, and has little in the way of personality traits that are distinctively her own. Her personality is mostly made to match what she perceives others (chiefly, Zack) want from her.
 
 But there are some insuppressible quirks that are definitively hers:
@@ -213,19 +217,19 @@ Finally, everything she does is 100% self-motivated. The people-pleasing is all 
 * She is by no means of a logical disposition, and so cannot be considered “calculating” with her actions. Rather than planning and manipulating, she more or less intuits how best to modify herself to maximize her public esteem.
 * But the targets of her attention and service are carefully selected based on the degree to which she thinks they can elevate her. Once she decided that Zack was her best shot, she spent very little time or energy trying to please anyone else.
 
-== Jason
+=== Jason
 
-=== Name 
+==== Name 
 Haven't settled on a name yet. The character is vaguely derived from a "Jason" from the original story so I'll go with that for now.
 
-=== Place in life at outset:
+==== Place in life at outset:
 He is one of 120 Old-Testament-style “Judges” in the same civilization as Zack and Eve.
 
 He is 823 years old
 
 He is the oldest and most revered of the Judges. The miraculous signs he has performed are some of the most famous to date, and many of his written works are considered scripture by some theological schools. (As in our world, canonization is a slow process and settles over time).
 
-=== History and character development
+==== History and character development
 Jason has only officially held the office for about 200 years, but ever since his adolescence (50s) he has been considered a prophet.
 
 The early days of his spiritual journey were marked by a vow of celibacy and intense asceticism. There are many monastic orders, but he was called to a more solitary existence. For most of the year, he would survive alone in the wilderness, praying and fasting and writing down his visions and insights. Once every new moon he would come to the capital city and preach, also sharing his written works (some of which were epistles, some poetry, and nearly all of them copied and published right away.)
@@ -243,7 +247,10 @@ The 120 Judges are on paper considered to have the highest official administrati
 They are theocratically appointed, using ritualistic processes of divination that vary per region. Their appointment is usually heavily influenced by the priesthood, and must be confirmed by the chief pontiff. (Although if a pontiff rejects a candidate for any remotely questionable reason, it has historically been seen as an overstepping of his customary bounds and is tolerated only grumblingly by the people.) As in Jason’s case, they often double as prophets, some of whom are on par with prophets like our Elijah (along with the commensurate miraculous signs).
 
 The Judges have been generally well-esteemed until about a year ago, when public opinion began to shift in favor of a unified monarchy (with Zack and Eve as the intended King and Queen.) There has always been ambiguity in the authority structure of the Judges, but recently there have also been suspicions of some Judges being falsely appointed, having allegedly paid off certain key clergy to gain the office.
-== Chapter 1
+
+== Plot Outline
+
+=== Chapter 1
 Story opens with a <normal?> day with Grace. We learn enough about her to
 understand where she is in life, and especially her obsession with isekai. The
 narrative is written in verse, including character dialogue.
@@ -269,7 +276,7 @@ We get windows into Grace's thought-life exclusively through her prayers. We
 don't hear her conjectures or inner dialogue until she lifts her thoughts to
 God.
 
-== Chapter 2 (adapted from notes)
+=== Chapter 2 (adapted from notes)
 The language in this chapter is substantially more elevated than the previous or
 subsequent chapters.
 
@@ -330,7 +337,7 @@ struggles to find words to describe it, she remembers everything clearly. She
 spends a lot of time in prayer that night and doesn't fall back to sleep until
 two hours before she has to get up for school.
 
-== Chapter 3
+=== Chapter 3
 
 That day she falls asleep in class and has a really goofy dream that her
 childhood superheroes appeared and scooped her up, just like she'd always
