@@ -76,6 +76,7 @@ Satan: He has been planning for {mc_name} to go to {ow_name} ever since he saw h
 1. Her disappointment with her Dad's timidity leads her to form an image of the "ideal man" that exactly matches {ry_nickname}.
 
 God: All things work together for good to those who love Him:
+
 1. He wants {mc_name} to become a doctor in order to save lives, principally, {js_name}'s life. This way, {ow_name} is not left without its greatest _Doctoris Ecclesiae_ during its most withering spiritual and geopolitical trial.
 1. He also wants her to overcome her fears.
 1. He permits her drawn to {ow_name} (ultimately being the cause of so much chaos) because he actually wants to allow Satan's plan to succeed, nominally. {ow_name} has had too few trials, and has not fully learned the way of the cross.
