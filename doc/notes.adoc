@@ -46,7 +46,7 @@
 === Chapter 1
 Story opens with a <normal?> day with the protagonist, {mc_name}. We learn enough about her to understand where she is in life, and especially her obsession with https://en.wikipedia.org/wiki/Isekai[isekai]. The narrative is written in verse, including character dialogue.
 
-Read <<Grace Ahn, her character notes>> (but no further) to learn what we might want to convey in this first chapter.
+Read <<{mc_name} {mc_surname}, her character notes>> (but no further) to learn what we might want to convey in this first chapter.
 
 +++ <details><summary> +++
 *TODO Note (spoilers)*
@@ -60,7 +60,7 @@ NOTE: Could we perhaps start with the hiking incident, and then jump forward to 
 
 Near the end of the first chapter, she's lying in bed and starts to think about life. She's mulling over her recent acceptance of the reality that the world is inescapably mundane. This emotional pendulum is swinging so far from its previous state that she even questions her faith... God seems to be yet another fanciful notion invented by people who couldn't accept the finality of death. The narrative gets increasingly abstract for the span of several stanzas, and the chapter ends with unresolved questions and some oddly out-of-place word pictures.
 
-We get windows into Grace's thought-life exclusively through her prayers. We don't hear her conjectures or inner dialogue until she lifts her thoughts to God.
+We get windows into {mc_name}'s thought-life exclusively through her prayers. We don't hear her conjectures or inner dialogue until she lifts her thoughts to God.
 
 +++ <details><summary> +++
 *Hidden Motivations (Spoilers)*
@@ -152,13 +152,13 @@ This is not just a gimmick, I hope, but serves a more immediate purpose for the 
 I should be able to achieve an earthly counterpoint to this by dropping into prose when the perspective shifts to that of a mortal human. Hopefully this will be evocative enough to reinforce the other narrative goals of the text.
 
 === Perspective
-The portions of the book that are written in verse, are from perspective of Grace's guardian angel. We get a very intimate third-person view of Grace, with impossible levels of detail. The angel can see things as minute as Grace's heart rate, body temperature, and the subtlest body language. We also sometimes have "educated guessing" about what she's thinking.
+The portions of the book that are written in verse, are from perspective of {mc_name}'s guardian angel. We get a very intimate third-person view of {mc_name}, with impossible levels of detail. The angel can see things as minute as {mc_name}'s heart rate, body temperature, and the subtlest body language. We also sometimes have "educated guessing" about what she's thinking.
 
 I think it may be important to make sure that we don't ever use definitive statements about what she's thinking, though. I don't think we want an unreliable narrator.
 
-When this story was going to be told in game format, I had the player thinking that they were actually playing as Grace, but then turn the tables when it's revealed that the player is actually her angel that has been guiding her. The twist is meaningful because the angel doesn't even realize it is a separate entity until that point.
+When this story was going to be told in game format, I had the player thinking that they were actually playing as {mc_name}, but then turn the tables when it's revealed that the player is actually her angel that has been guiding her. The twist is meaningful because the angel doesn't even realize it is a separate entity until that point.
 
-In book format, though, I think we should still use third-person pronouns for Grace. Doing otherwise might seem *too* jarring, and make the narrator unreliable.
+In book format, though, I think we should still use third-person pronouns for {mc_name}. Doing otherwise might seem *too* jarring, and make the narrator unreliable.
 
 === Medium
 
@@ -178,7 +178,7 @@ When complete, I will publish the book in print, ebook, and audiobook formats co
 
 == Characters
 
-=== Grace Ahn
+=== {mc_name} {mc_surname}
 
 ==== Overview
 
@@ -416,7 +416,7 @@ The Judges have been generally well-esteemed until about a year ago, when public
 
 == Spoilery notes for sorting
 
-=== Grace Ahn
+=== {mc_name} {mc_surname}
 
 This is integral to her eventual success at tracking down the {ow_group-nickname}.
 
