@@ -33,6 +33,12 @@
 :zk_nickname: Eve
 :zk_outset-age: 295
 
+// Jason
+:js_nickname: Jason
+
+// Raynor
+:ry_nickname: Raynor
+
 = Aevum Notes
 
 == Plot Outline
@@ -55,6 +61,27 @@ NOTE: Could we perhaps start with the hiking incident, and then jump forward to 
 Near the end of the first chapter, she's lying in bed and starts to think about life. She's mulling over her recent acceptance of the reality that the world is inescapably mundane. This emotional pendulum is swinging so far from its previous state that she even questions her faith... God seems to be yet another fanciful notion invented by people who couldn't accept the finality of death. The narrative gets increasingly abstract for the span of several stanzas, and the chapter ends with unresolved questions and some oddly out-of-place word pictures.
 
 We get windows into Grace's thought-life exclusively through her prayers. We don't hear her conjectures or inner dialogue until she lifts her thoughts to God.
+
++++ <details><summary> +++
+*Hidden Motivations (Spoilers)*
++++ </summary><div> +++
+****
+
+Satan: He has been planning for {mc_name} to go to {ow_name} ever since he saw her obsessive personality start to form. He caused the hiking accident on their family's very first adventure because it would have the following effects:
+
+1. Create discord and stress in the parents' otherwise excellent Christian marriage
+1. Instill fear of death in {mc_name}'s heart, which would grow into full-blown hypochondria
+1. Spark a desire in {mc_name} to become a "savior"
+1. Her dissatisfaction with the real world and savior-fantasies pave the way for her isekai fascination 
+1. Her disappointment with her Dad's timidity leads her to form an image of the "ideal man" that exactly matches {ry_nickname}.
+
+God: All things work together for good to those who love Him:
+1. He wants {mc_name} to become a doctor in order to save lives, principally, {js_name}'s life. This way, {ow_name} is not left without its greatest _Doctoris Ecclesiae_ during its most withering spiritual and geopolitical trial.
+1. He also wants her to overcome her fears.
+1. He permits her drawn to {ow_name} (ultimately being the cause of so much chaos) because he actually wants to allow Satan's plan to succeed, nominally. {ow_name} has had too few trials, and has not fully learned the way of the cross.
+****
++++ </div></details> +++
+
 
 === Chapter 2
 The language in this chapter is substantially more elevated than the previous or subsequent chapters.
