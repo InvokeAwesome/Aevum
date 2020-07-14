@@ -99,7 +99,8 @@ Should this be in verse (angelic), but CH 1 be in prose (mortal)?
 
 The angel's gaze shifts to something behind her. {mc_name} turns and sees darkness and horror enveloping her, slashing and clawing and grasping for her with a thousand deformed hands. She tries to move away, but can't feel her legs. She tries to scream but can't make a sound. The only thing she can coherently remember about her life before this awful fear is a prayer her mother would say with her at bed time, when she was little. She tries to say the prayer aloud, but can only mouth the words with great difficulty.
 
-Soon, as though sensing a predator approaching, the darkness hesitates, and then reluctantly retreats. A pale, and then blinding light appears, and a fiery, glowing hand lifts her up. A man's voice says, "Do not fear." Her eyes, up until now being shut tightly with fear, and now because of the light, begin to open as the light moves away and inhabits a distant place, behind the crystal ocean.
+Soon, as though sensing a predator approaching, the darkness hesitates, and then reluctantly retreats. A pale, and then blinding light appears, and a fiery, glowing hand lifts her up. A man's voice says, "Do not fear, little one." Her eyes, up until now being shut tightly with fear, and now because of the light, begin to open as the light moves away and inhabits a distant place, behind the crystal ocean.
+
 +++ <details><summary> +++
 *Spoiler*
 +++ </summary><div> +++
@@ -117,6 +118,24 @@ He stretches forth his hand at her. {mc_name} begins to fall at startling speeds
 She wakes up screaming, in a cold sweat. She does not calm down for some time. She eventually begins to pray silently, her lips moving to the words of that same bedtime prayer, and she calms down. With her mind still trembling from the intensity and otherness of the experience, she gets up and turns on a lamp at her desk, but not before stumbling over some books on the floor.
 
 She opens her laptop, and logs in, failing at the password five times, because her hands are shaking and her fingers are stiff. She closes an open web browser, opens a word editor, and writes down everything that happened. Though she struggles to find words to describe it, she remembers everything clearly. She spends a lot of time in prayer that night and doesn't fall back to sleep until two hours before she has to get up for school. (This is probably the most time she has spent in prayer in her entire life.)
+
++++ <details><summary> +++
+*Hidden Motivations (Spoilers)*
++++ </summary><div> +++
+****
+
+Satan (apparent): It seems like Satan is trying to frighten {mc_name} away from {mc_name}'s mission. The spiritual attack comes the night before the {ow_group-nickname} show up. He apparently wants her to be tired and oppressed during those first crucial days, so that she misses her chance to find them.
+
+Satan (actual): {mc_name} has many more spiritual and physical trials awaiting her. Satan wants her to feel like she's overcoming them against all odds. He wants her to feel like the heroine she always wanted to be. She will _still_ go after the {ow_group-nickname} despite her extreme fatigue and anxiety, because she is the determined heroine. She will quickly forget that it was only through the interposition of Christ that the demon was driven away.
+
+Immediate Sin: *Pride*
+
+God: Christ's brief words sum up exactly what God is doing here. He does indeed want her to overcome her fears, but through trust rather than self-reliance. He calls her "little one" to remind her of her total reliance on him. Sadly, she doesn't pick up on this until much later, but she will be humbled.
+
+Eventual Virtue: *Humility*
+
+****
++++ </div></details> +++
 
 === Chapter 3
 
