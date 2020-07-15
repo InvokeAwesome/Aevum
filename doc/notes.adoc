@@ -5,7 +5,7 @@
 // Main Character
 :mc_name: Grace
 :mc_surname: Ahn
-:mc_outset-age: 23
+:mc_outset-age: 25
 :mc_outset-location: Columbus, OH
 :mc_ethnicity: Korean
 :mc_trauma-age: 11
@@ -254,6 +254,8 @@ She is {mc_outset-age}, in college, studying medicine as an undergrad in {mc_out
 She is a regular {mc_ethnicity} evangelical church-goer, but her faith is much less apparent Monday through Saturday
 
 She has a {mc_sibling} named {sib_name}, that is in high school and still lives with their parents.
+
+She drives a bus on campus as a part-time job.
 
 ==== Appearance 
 
