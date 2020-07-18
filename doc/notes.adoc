@@ -44,19 +44,28 @@
 == Plot Outline
 
 === Chapter 1
-Story opens with a <normal?> day with the protagonist, {mc_name}. We learn enough about her to understand where she is in life, and especially her obsession with https://en.wikipedia.org/wiki/Isekai[isekai]. The narrative is written in verse, including character dialogue.
 
-Read <<{mc_name} {mc_surname}, her character notes>> (but no further) to learn what we might want to convey in this first chapter.
+The following is written in iambic hexameter couplets:
 
-+++ <details><summary> +++
-*TODO Note (spoilers)*
-+++ </summary><div> +++
-****
-Really think about how this first day should go. This chapter needs serious profluence to succeed as a first chapter! This will probably be best achieved through contrasting her impossible, childish hopes with the bleakness of the reality she has finally come to terms with. Humor and the uncommon poetic style will help here too. The upset isekai expectations are the basic foreshadowing for the plot, but it is even more important to foreshadow the moral conclusions of the work here.
+The chapter opens on a beautiful, wooded trail in the Appalachian Mountains. A preteen girl, her {mc_sibling}, and their mother are hiking together along the side of a river, heading down the mountain. They stop to get a drink. Their mother tells them to feel the water, and it's ice cold. They watch her take out a filter and process some water into their empty thermos jugs.
 
-NOTE: Could we perhaps start with the hiking incident, and then jump forward to a regular day? That might help color the day enough to bring out more of her character quirks, and also might be an opportunity for more foreshadowing.
-****
-+++ </div></details> +++
+They all take deep draughts. It's the most refreshing, delicious water they've ever tasted. The young girl sits there for a while and watches the water flow over and around some rocks. Up ahead, the stream splits into two different directions as it heads down the mountain. She watches with particular interest the point at which the stream bifurcates against a large, mossy boulder.
+
+After their break is done, they follow the left-hand branch of the river further down, and they can start to hear the rushing of a waterfall. With increasing giddiness, the children start to pick up their pace. Their mother watches them contentedly. Finally they see it: although the waterfall is by no means impressive compared to some of the others in these mountains, it is the largest the children have ever seen personally. They both squeal with delight, and describe everything they see in great detail to their mother who is also standing right there and looking at it. She smiles at them and nods enthusiastically.
+
+"See what we've been missing?" she says. "Aren't you glad Dad finally let us come out here?"
+
+They both respond with a loud "YEAH!" that echoes through the forest.
+
+"Maybe we can convince him to come with us next time. What do you think?" she asks.
+
+The boy proceeds to optimistically describe the particular way in which their Dad would agree to do so. The girl is more pensive, but is clearly imagining the scenario with glee. 
+
+They proceed downward, making to cross the stream at the base of the fall. 
+
+
+
+
 
 Near the end of the first chapter, she's lying in bed and starts to think about life. She's mulling over her recent acceptance of the reality that the world is inescapably mundane. This emotional pendulum is swinging so far from its previous state that she even questions her faith... God seems to be yet another fanciful notion invented by people who couldn't accept the finality of death. The narrative gets increasingly abstract for the span of several stanzas, and the chapter ends with unresolved questions and some oddly out-of-place word pictures.
 
@@ -195,6 +204,7 @@ She clenches her teeth. Her hands grip the wheel tighter. She stares at a single
 
 She's brought back to reality by the blaring of a horn, from a sedan in the oncoming lane that's about to smash right through her. She veers back into her lane, almost side-swiping another car that's trying desperately to pass her. More horns. The tires screech as the car fish-tails, and she goes spinning into the shoulder.
 
+=== Chapter 5
 
 
 
