@@ -69,11 +69,11 @@ She reaches the bottom in less than 20 seconds, and then invites the children to
 
 The mother surveys the descent again, pointing out the steps they must take. Raising her voice, she encourages them: "I'm right here, guys! Even if you did fall, I'd catch you. But you won't fall, because you're really strong! {mc_name}, you can go first, to show your {mc_sibling} how it's done."
 
-{mc_name} protests again, but her mother reassures her:
+{mc_name} protests again, but her mother reassures her: "You can do this, {mc_name}! It's gonna be alright."
 
+The girl stares at the ground beneath her, as her heart pounds in her ears.
 
-
-
+'''
 
 
 
