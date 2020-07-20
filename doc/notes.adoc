@@ -51,7 +51,9 @@ The chapter opens on a beautiful, wooded trail in the Appalachian Mountains. A p
 
 They all take deep draughts. It's the most refreshing, delicious water they've ever tasted. The young girl sits there for a while and watches the water flow over and around some rocks. Up ahead, the stream splits into two different directions as it heads down the mountain. She watches with particular interest the point at which the stream bifurcates against a large, mossy boulder.
 
-After their break is done, they follow the left-hand branch of the river further down, and they can start to hear the rushing of a waterfall. With increasing giddiness, the children start to pick up their pace. Their mother watches them contentedly. Finally they see it: although the waterfall is by no means impressive compared to some of the others in these mountains, it is the largest the children have ever seen personally. They both squeal with delight, and describe everything they see in great detail to their mother who is also standing right there and looking at it. She smiles at them and nods enthusiastically.
+After their break is done, they follow the left-hand branch of the river further down, and they can start to hear the rushing of a waterfall. With increasing giddiness, the children start to pick up their pace. Their mother watches them contentedly. The roar of the waterfall gets louder.
+
+Finally they see it: although the waterfall is by no means impressive compared to some of the others in these mountains, it is the largest the children have ever seen personally. They both squeal with delight, and describe everything they see in great detail to their mother who is also standing right there and looking at it. She smiles at them and nods enthusiastically.
 
 "See what we've been missing?" she says. "Aren't you glad Dad finally let us come out here?"
 
@@ -61,7 +63,15 @@ They both respond with a loud "YEAH!" that echoes through the forest.
 
 The boy proceeds to optimistically describe the particular way in which their Dad would agree to do so. The girl is more pensive, but is clearly imagining the scenario with glee. 
 
-They proceed downward, making to cross the stream at the base of the fall. 
+They proceed downward, making to cross the stream at the base of the fall. There is a fairly steep, 15-foot drop to descend first, however. The mother heads down first. She lowers herself down to a narrow ledge about 4 feet down. Then, facing the slope, she picks her way back and forth along a path of sorts, which proves to be easily navigable with some patience.
+
+She reaches the bottom in less than 20 seconds, and then invites the children to come down. They were at first captivated by their cool mom and her feat of dexterity, but now that they realize that they too must make the descent, they are suddenly gripped by fear. They start to complain, protesting the danger. Their small voices are almost drowned out by the sound of the waterfall, and they must shout to be heard.
+
+The mother surveys the descent again, pointing out the steps they must take. Raising her voice, she encourages them: "I'm right here, guys! Even if you did fall, I'd catch you. But you won't fall, because you're really strong! {mc_name}, you can go first, to show your {mc_sibling} how it's done."
+
+{mc_name} protests again, but her mother reassures her:
+
+
 
 
 
