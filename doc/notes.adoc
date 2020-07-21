@@ -47,7 +47,7 @@
 
 The following is written in iambic hexameter couplets:
 
-The chapter opens on a beautiful, wooded trail in the Appalachian Mountains. A preteen girl, her {mc_sibling}, and their mother are hiking together along the side of a river, heading down the mountain. They stop to get a drink. Their mother tells them to feel the water, and it's ice cold. They watch her take out a filter and process some water into their empty thermos jugs.
+The chapter opens on a beautiful, wooded trail in the Appalachian Mountains. An {mc_trauma-age}-year-old girl, her {mc_sibling}, and their mother are hiking together along the side of a river, heading down the mountain. They stop to get a drink. Their mother tells them to feel the water, and it's ice cold. They watch her take out a filter and process some water into their empty thermos jugs.
 
 They all take deep draughts. It's the most refreshing, delicious water they've ever tasted. The young girl sits there for a while and watches the water flow over and around some rocks. Up ahead, the stream splits into two different directions as it heads down the mountain. She watches with particular interest the point at which the stream bifurcates against a large, mossy boulder.
 
