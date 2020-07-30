@@ -30,8 +30,8 @@
 
 // Eve
 :ev_true-name: Hyav
-:zk_nickname: Eve
-:zk_outset-age: 295
+:ev_nickname: Eve
+:ev_outset-age: 295
 
 // Jason
 :js_nickname: Jason
