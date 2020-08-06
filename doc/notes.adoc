@@ -43,7 +43,7 @@
 
 == Plot Outline
 
-=== Chapter 1
+=== Chapter {counter:chapters}
 
 The following is written in iambic hexameter couplets:
 
@@ -74,8 +74,7 @@ The mother surveys the descent again, pointing out the steps they must take. Rai
 The girl stares at the ground beneath her, as the beating of her heart swells in her ears above the roaring of the waters.
 
 
-'''
-'''
+=== Chapter {counter:chapters}
 
 (This part might be written in prose)
 
@@ -141,7 +140,7 @@ God: All things work together for good to those who love Him:
 +++ </div></details> +++
 
 
-=== Chapter 2
+=== Chapter {counter:chapters}
 The language in this chapter is substantially more elevated than the previous or subsequent chapters.
 
 +++ <details><summary> +++
@@ -194,7 +193,7 @@ Eventual Virtue: *Humility*
 ****
 +++ </div></details> +++
 
-=== Chapter 3
+=== Chapter {counter:chapters}
 
 Later that day, she falls asleep in class. Judging by her twitching, she was dreaming, and judging by her dumb unconscious smile, it was probably one of her childhood superheroes fantasies. The classmate next to her elbows her and she wakes up. The classmate tells her to look at what's on the screen of the laptop of the guy sitting in front of them. Dozens of other classmates, and even the professor, are gathered around, watching a news report. 
 
@@ -220,7 +219,7 @@ Satan (actual): This is not the case. He wants her to take them (and herself) ba
 ****
 +++ </div></details> +++
 
-=== Chapter 4
+=== Chapter {counter:chapters}
 
 As she drives home, fatigue and anxiety encroach upon her. She's had less than two hours of sleep, just went through the most harrowing experience of her life, and on top of that, now reality itself seems to be turned on its head. She had just gotten over her childhood dreams, and now they suddenly come true?
 
@@ -252,7 +251,7 @@ She clenches her teeth. Her hands grip the wheel tighter. She stares at a single
 
 She's brought back to reality by the blaring of a horn, from a sedan in the oncoming lane that's about to smash right through her. She veers back into her lane, almost side-swiping another car that's trying desperately to pass her. More horns. The tires screech as the car fish-tails, and she goes spinning into the shoulder.
 
-=== Chapter 5
+=== Chapter {counter:chapters}
 
 
 
