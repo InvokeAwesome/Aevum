@@ -9,6 +9,7 @@
 :mc_outset-location: Columbus, OH
 :mc_ethnicity: Korean
 :mc_trauma-age: 11
+:mc_acceptance-age: 11th grade
 
 // Sibling
 :mc_sibling: younger brother
@@ -110,13 +111,19 @@ She enters her room and closes the door, through which wafts the muffled bickeri
 
 This one is actually more fun than usual, because it's a physical trauma case in a disaster scenario. As an aspiring disaster relief doctor, this is right up her alley. She is able to confidently answer several of the questions from memory, but eventually gets stuck and has to start scouring her textbooks.
 
-While she's flipping pages, she comes across a picture that reminds her of a character from an anime show she used to adore back in middle school. The genre was "isekai," meaning "other world," and centered around a protagonist from our world that gets magically transported to a fantasy world. As her brain dredges up favorite scenes, she starts to cringe badly as she remembers the extent of her obsession.
+While she's flipping pages, she comes across a picture that reminds her of a character from an anime show she used to adore back in middle school. The genre was "isekai," meaning "other world," which means it was centered around a protagonist from our world that gets magically transported to a fantasy world. She still loves this genre, and in fact the show she was watching just now was a recent example. Her brain dredges up favorite scenes, and she winces as she remembers the extent of her obsession.
 
-It went beyond merely enjoying the show and the genre broadly. She actually held on to a belief that she would one day be swept off into another world, where she could have the adventures that she was yearning for. 
+It went beyond merely enjoying the show and the genre broadly. She actually held on to a deep-seated belief that she would one day be swept off into another world, where she could live the fantasy that she was yearning for. Grace mentally rehearses all of the preparations she made, ranging from always carrying survival supplies to studying how to communicate with people who don't share a language with you. She tried her hand at things like marksmanship, martial arts, and even swordplay, but didn't have the discipline to keep up with them for long. (She still tells herself that she's just on hiatus from her martial arts, though.)
 
-'''
+These thoughts lead inexorably to the same conclusion as always: "It was all childish bullshit. I was a cringey, deluded idiot." There are no fantasy worlds, no magical heroes who will fall in love with her. It's pure escapism, meant to distract us from the bleakness of the real world for a few happy minutes, or hours. She bought in to it so deeply entirely because she wasn't happy with her life. How the hell did it take her until {mc_acceptance-age} to finally accept this?
 
-Near the end of the first chapter, she's lying in bed and starts to think about life. She's mulling over her recent acceptance of the reality that the world is inescapably mundane. This emotional pendulum is swinging so far from its previous state that she even questions her faith... God seems to be yet another fanciful notion invented by people who couldn't accept the finality of death. The narrative gets increasingly abstract for the span of several stanzas, and the chapter ends with unresolved questions and some oddly out-of-place word pictures.
+She has gone through this exact thought process countless times, in the exact same sequence. On queue, she next notices her complusive face-touching, and went over what she had touched recently. She had been typing on her keyboard, which she can't remember wiping down recently, so she goes to wash her hands and face. That done, she stares at herself in the bathroom mirror, looking herself over. She's still pretty, definitely in the "attractive" category. She adjusts her posture to best conceal the small paunch peeking out over her belt, and fusses with her black, straight hair. She'll probably go ahead and get double eyelids done at some point, but honestly she's pretty good as is. 
+
+She remembers the assignment, but she's getting really tired. She raps on the sink with her index finger while she runs some numbers. She could probably turn it in as is and get at least 7 of the 10 points it was worth. She's been pretty good with this class, she can afford it and still get an A, or A- at worst. She goes back into her room, turns off the lights, and flops in bed, still in her clothes. The belt's a bit uncomfortable so she awkwardly yanks it out and tosses it somewhere on the floor.
+
+Yeah, this is reality. This is what we have to work with. The closest thing she'll get to being a hero is helping people as a doctor, like her Mom. Her Mom's a real hero, unlike those sword-swinging magical sex symbols. She wonders if she could get away with wearing a miniskirt like that at church. They're getting more culturally acceptable, and they're super cute.
+
+She tries to recall the sermon from last Sunday. It takes about a minute of concentrated thought to bring up a vague theme about faith. There's one line she can remember clearly: "God does not owe you any more proof of his existence than the fact that you are here thinking about it." 
 
 +++ <details><summary> +++
 *Hidden Motivations (Spoilers)*
