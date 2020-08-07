@@ -5,16 +5,30 @@
 // Main Character
 :mc_name: Grace
 :mc_surname: Ahn
+:mc_heading: {mc_name} {mc_surname}
+:mc_line: GRACE
 :mc_outset-age: 25
 :mc_outset-location: Columbus, OH
-:mc_ethnicity: Korean
+:mc_ethnicity: Korean-American
+:mc_native-language: Korean
 :mc_trauma-age: 11
 :mc_acceptance-age: 11th grade
 
+// Mother
+:mom_name: Min-ji
+:mom_heading: {mom_name} {mc_surname}
+:mom_line: MIN-JI
+
 // Sibling
 :mc_sibling: younger brother
+:mc_sibling-c: Younger Brother
+:sib_gender: boy
 :sib_name: Yoon
+:sib_line: YOON
+:sib_line-u: YOUNG BOY
 :sib_pro: his
+:sib_pro-c: His
+:sib_trauma-age: 8
 
 // Other world
 :ow_group-nickname: B-Team
@@ -23,6 +37,7 @@
 
 // Other-worlder appearance in our world
 :owa_location: Melbourne, Australia
+:owa_month: July 
 
 // Zack
 :zk_true-name: Tsadq
@@ -46,52 +61,117 @@
 
 === Chapter {counter:chapters}
 
-The following is written in iambic hexameter couplets:
 
-The chapter opens on a beautiful, wooded trail in the Appalachian Mountains. An {mc_trauma-age}-year-old girl, her {mc_sibling}, and their mother are hiking together along the side of a river, heading down the mountain. They stop to get a drink. Their mother speaks to them in Korean, telling them to feel the water. It's ice cold. They watch her take out a filter and process some water into their empty thermos jugs.
 
-They all take deep draughts. It's the most refreshing, delicious water they've ever tasted. The young girl sits there for a while and watches the water flow over and around some rocks. Up ahead, the stream splits into two different directions as it heads down the mountain. She watches with particular interest the point at which the stream bifurcates against a large, mossy boulder.
+'''
+_Style:_ Iambic hexameter couplets. Semi-elevated style. +
 
-After their break is done, they follow the left-hand branch of the river further down, and they can start to hear the rushing of a waterfall. With increasing giddiness, the children start to pick up their pace. Their mother watches them contentedly. The roar of the waterfall gets louder.
+_Setting:_ A beautiful, wooded trail in the Appalachian Mountains. +
 
-Finally they see it: although the waterfall is by no means impressive compared to some of the others in these mountains, it is the largest the children have ever seen personally. They both squeal with delight, and describe everything they see in great detail to their mother who is also standing right there and looking at it. She smiles at them and nods enthusiastically.
+_Opening Characters:_
+****
+*<<{mom_heading}, Mother:>>*
+ 
+* Hair in a ponytail
+* Wearing baseball cap, blue jeans, white tanktop
+* Carrying heavy hiking backpack
 
-"See what we've been missing?" she says. "Aren't you glad Dad finally let us come out here?"
+*<<{mc_heading}, {mc_trauma-age}-year-old girl:>>*
 
-They both respond with a loud "YEAH!" that echoes through the forest.
+* Hair in a similar ponytail to her mother
+* Wearing a print T-shirt from last year's summer camp, pink cargo shorts. Brand new shoes that are slightly too big.
+* Carrying a much smaller backpack filled with lightweight camping items
 
-"Maybe we can convince him to come with us next time. What do you think?" she asks.
+*<<{sib_heading}, {sib_trauma-age}-year-old {sib_gender}:>>*
 
-The boy proceeds to optimistically describe the particular way in which their Dad would agree to do so. The girl is more pensive, but is clearly imagining the scenario with glee. 
+* Hair messy. Bowl cut.
+* Star Trek print T-shirt
+* Sweatpants
+* Older shoes, starting to fray. White tube socks.
+* Glasses, low prescription
 
-They proceed downward, making to cross the stream at the base of the fall. Before they can do that, however, there is a fairly steep, 15-foot slope next to the waterfall that they must descend. The mother heads down first. She lowers herself down to a narrow ledge about 4 feet down. Then, facing the slope, she picks her way back and forth along a path of sorts, which proves to be easily navigable with some patience.
+****
 
-She reaches the bottom in less than 15 seconds, and then invites the children to come down. They were at first captivated by their cool mom and her feat of dexterity, but now that they realize that they too must make the descent, they are suddenly gripped by fear. They start to complain, protesting the danger. Their small voices are almost drowned out by the sound of the waterfall, and they must shout to be heard.
+'''
 
-The mother surveys the descent again, pointing out the steps they must take. Raising her voice, she encourages them: "I'm right here, guys! Even if you did fall, I'd catch you. But you won't fall, because you're really strong! {mc_name}, you can go first, to show your {mc_sibling} how it's done."
-
-{mc_name} protests again, but her mother reassures her: "You can do this, {mc_name}! It's gonna be alright."
-
-The girl stares at the ground beneath her, as the beating of her heart swells in her ears above the roaring of the waters.
+* The above characters are hiking together along the side of a river, heading down the mountain. 
+* They all stop to get a drink. 
+* *MOTHER:* speaking to them in {mc_native-language}, she tells them to feel the water. 
+* They do so, and it's surprisingly cold, like ice water. 
+* They watch her take out a filter and process some water into their empty thermos jugs.
+* They all take deep draughts. It's the most refreshing, delicious water they've ever tasted. 
+* The young girl sits there for a while and watches the water flow over and around some rocks. 
+* Up ahead, the stream splits into two different directions as it heads down the mountain. She watches with particular interest the point at which the stream bifurcates against a large, mossy boulder.
+* After their break is done, they follow the left-hand branch of the river further down. They can start to hear the rushing of a waterfall.
+* With increasing giddiness, the children start to pick up their pace. Their mother watches them contentedly. The roar of the waterfall gets louder.
+* Finally they see it: although the waterfall is by no means impressive compared to some of the others in these mountains, it is the largest the children have ever seen personally. They both squeal with delight, and describe everything they see in great detail to their mother who is also standing right there and looking at it.
+* She smiles at them and nods enthusiastically.
+* *MOTHER:* "See what we've been missing? Aren't you glad Dad finally let us come out here?"
+* *CHILDREN:* Both respond with a loud "YEAH!" that echoes through the forest.
+* *MOTHER:* "Maybe we can convince him to come with us next time. What do you think?"
+* *{sib_line-u}:* Proceeds to optimistically describe the particular way in which their Dad would agree to do so.
+* The girl is more pensive, but is clearly imagining the scenario with glee. 
+* They proceed downstream.
+* They want to cross the river at the base of the falls, where it's thinner.
+* Before they can do that, however, there is a fairly steep, 15-foot slope next to the waterfall that they must descend. There's no better point to descend nearby.
+* The mother heads down first. She lowers herself down to a narrow ledge about 4 feet down. Then, facing the slope, she picks her way back and forth along a path of sorts, which proves to be easily navigable with some patience. She reaches the bottom in less than 15 seconds
+* She then invites the children to come down.
+* They were at first captivated by their cool mom and her feat of dexterity, but now that they realize that they too must make the descent, they are suddenly gripped by fear.
+* *CHILDREN:* They complain, protesting the danger. Their small voices are almost drowned out by the sound of the waterfall, and they must shout to be heard.
+* The mother surveys the descent again, pointing out the steps they must take.
+* *MOTHER:* Raising her voice, she encourages them: "I'm right here, guys! Even if you did fall, I'd catch you. But you won't fall, because you're really strong! {mc_name}, you can go first, to show your {mc_sibling} how it's done."
+* *{mc_line}:*  Protests again
+* *MOTHER:* "You can do this, {mc_name}! It's gonna be alright."
+* {mc_name} stares at the ground beneath her, as the beating of her heart swells in her ears above the roaring of the waters.
 
 
 === Chapter {counter:chapters}
 
-(This part might be written in prose)
+'''
+_Style:_ Basic prose with periodic stream-of-consciousness
 
-The next scene takes place in a dimly-lit apartment, in the evening. The setting sun peeks out behind some clouds, and shines brightly through the living room window, directly into the flatscreen TV. A young woman on the couch grumbles, enduring the situation for about 30 more seconds. As the sun does not cease its shining, she grumbles again and musters the willpower to get up and close the blinds.
+_Setting:_ A dimly-lit two-bedroom apartment, in the evening. It's midsummer.
 
-Now the picture on the TV is much clearer, and she plops back down with a releived sigh to enjoy the fruit of her labors. There's some kind of fantasy anime playing on the TV. A young man wearing a track suit is holding an over-designed and unwieldy-looking sword as he stares down a huge, black, demonic dragon. He seems to be the only one left standing between it and a small medieval-style village. All other defenders have been slain or have fled.
+_Opening Characters:_
+****
 
-The protagonist is panting, and sweating profusely. His hand trembles. He remembers all of the times he ran away or faltered in combat. He remembers the many times he has had to be saved by this world's heroes. But this time, they are not here, not yet at least. He realizes that he could use a teleportation spell scroll in his pocket to escape, if he started the invocation now. But he's also keenly aware that, unlike him, the villagers here have nowhere to run. He takes a deep breath, grips his sword tightly, and makes his choice.
+*<<{mc_heading}, {mc_outset-age}-year-old woman:>>*
 
-He then proceeds to thoroughly ruin the mood by monologuing at the dragon about his determination and how much he cares about the villagers and stuff. The delivery is horribly over-acted, and the lines are cheesy as hell. The woman on the couch cringes a bit to herself, but her eyes remain locked on the screen to see what happens next. As the fight scene commences, she watches with quiet reverence.
+* Hair in a messy bun, kind of frizzy.
+* Wearing shorts and an old print T-shirt. The shirt has some obscure anime fandom reference. 
 
-The protagonist holds his own for a little while, and a smile grows across his face. "I can do this!" he says, predictably. And predictably, it's right at that moment that his guard is broken and he receives a crushing blow to the chest. He's thrown violently into a wall, which caves in behind him from the impact. Blood erupts from his mouth, and he slumps to the ground. His vision goes in and out as he watches the dragon's slow, unstoppable approach. Pale, red fire glows in its nostrils, and the ground shakes with the sound of each titanic footfall.
+****
 
-It stands over him for a moment, looking down with utter contempt at his feebleness. It raises a massive claw and brings it down towards him. But right at that moment, there is a blinding light, a slashing sound, and a brilliant white arc through its wrist. The claw falls to the ground, mere inches in front of the dying protagonist.
+'''
 
-"Well done holding him off, Hibiki-kun!" shouts the young woman who dealt the blow, who is still hurtling through the air. She hits the ground in a kneeling posture between Hibiki and the dragon, which is now reeling back in pain. Her impractically short, unsullied white pleated skirt flutters dramatically as the impact of her landing kicks up a ring of dust. She slowly raises herself and assumes a wide fighting stance, her legs clapped in plate armor that reaches mid-thigh. Her silver breastplate glistens in the red light of the dragon's fire, and its blood is spattered on her face. She flicks her sword toward the ground, flinging the beast's dark gore in an arc away from her. She runs her other hand through her long, straight blonde hair.
+* _Setting:_ 
+* The setting sun peeks out behind some clouds, and shines brightly through the living room window, directly into the flatscreen TV.
+* The young woman on the couch grumbles, enduring the situation for about 30 more seconds.
+* As the sun does not cease its shining, she grumbles again and musters the willpower to get up and close the blinds. Now the picture on the TV is much clearer.
+* She plops back down with a releived sigh to enjoy the fruit of her labors.
+* There's some kind of fantasy anime playing on the TV:
+** _Setting:_ A generic medieval world
+** A young man wearing a track suit is holding an over-designed and unwieldy-looking sword as he stares down a huge, black, demonic dragon.
+** He seems to be the only one left standing between it and a small medieval-style village. All other defenders have been slain or have fled.
+** The protagonist is panting, and sweating profusely. His hand trembles. 
+** He remembers all of the times he ran away or faltered in combat. He remembers the many times he has had to be saved by this world's heroes. But this time, they are not here, not yet at least.
+** He realizes that he could use a teleportation spell scroll in his pocket to escape, if he started the invocation now. But he's also keenly aware that, unlike him, the villagers here have nowhere to run.
+** He takes a deep breath, grips his sword tightly, and makes his choice.
+** *PROTAGONIST:* Proceeds to thoroughly ruin the mood by monologuing at the dragon about his determination and how much he cares about the villagers and stuff. The delivery is horribly over-acted, and the lines are cheesy as hell.
+* The woman on the couch cringes a bit to herself, but her eyes remain locked on the screen to see what happens next. As the fight scene commences, she watches with quiet reverence.
+** The protagonist holds his own for a little while, and a smile grows across his face.
+** *PROTAGONIST:* Predictably: "I can do this!"
+** And predictably, it's right at that moment that his guard is broken and he receives a crushing blow to the chest.
+** He's thrown violently into a wall, which caves in behind him from the impact. Blood erupts from his mouth, and he slumps to the ground.
+** His vision goes in and out as he watches the dragon's slow, unstoppable approach.
+** Pale, red fire glows in its nostrils, and the ground shakes with the sound of each titanic footfall.
+** It stands over him for a moment, looking down with utter contempt at his feebleness.
+** It raises a massive claw and brings it down towards him.
+** But right at that moment, there is a blinding light, a slashing sound, and a brilliant white arc through its wrist.
+** The claw falls to the ground, mere inches in front of the dying protagonist.
+** *YOUNG WOMAN:* "Well done holding him off, Hibiki-kun!"
+** The young woman who dealt the blow says this while still hurtling through the air.
+** She hits the ground in a kneeling posture between Hibiki and the dragon, which is now reeling back in pain. Her impractically short, unsullied white pleated skirt flutters dramatically as the impact of her landing kicks up a ring of dust. She slowly raises herself and assumes a wide fighting stance, her legs clapped in plate armor that reaches mid-thigh. Her silver breastplate glistens in the red light of the dragon's fire, and its blood is spattered on her face. She flicks her sword toward the ground, flinging the beast's dark gore in an arc away from her. She runs her other hand through her long, straight blonde hair.
 
 She glances back at Hibiki, and smiles. "Thank you for giving us enough time to get here. You've saved this village."
 
@@ -119,7 +199,7 @@ These thoughts lead inexorably to the same conclusion as always: "It was all chi
 
 She has gone through this exact thought process countless times, in the exact same sequence. On queue, she next notices her complusive face-touching, and went over what she had touched recently. She had been typing on her keyboard, which she can't remember wiping down recently, so she goes to wash her hands and face. That done, she stares at herself in the bathroom mirror, looking herself over. She's still pretty, definitely in the "attractive" category. She adjusts her posture to best conceal the small paunch peeking out over her belt, and fusses with her black, straight hair. She'll probably go ahead and get double eyelids done at some point, but honestly she's pretty good as is. 
 
-She remembers the assignment, but she's getting really tired. She raps on the sink with her index finger while she runs some numbers. She could probably turn it in as is and get at least 7 of the 10 points it was worth. She's been pretty good with this class, she can afford it and still get an A, or A- at worst. She goes back into her room, turns off the lights, and flops in bed, still in her clothes. The belt's a bit uncomfortable so she awkwardly yanks it out and tosses it somewhere on the floor.
+She remembers the assignment, but she's getting really tired. She raps on the sink with her index finger while she runs some numbers. She could probably turn it in as is and get at least 7 of the 10 points it was worth. She's been pretty good with this class, she can afford it and still get an A, or A* at worst. She goes back into her room, turns off the lights, and flops in bed, still in her clothes. The belt's a bit uncomfortable so she awkwardly yanks it out and tosses it somewhere on the floor.
 
 Yeah, this is reality. This is what we have to work with. The closest thing she'll get to being a hero is helping people as a doctor, like her Mom. Her Mom's a real hero, unlike those sword-swinging magical sex symbols. She wonders if she could get away with wearing a miniskirt like that at church. They're getting more culturally acceptable, and they're super cute.
 
@@ -321,7 +401,7 @@ When complete, I will publish the book in print, ebook, and audiobook formats co
 
 == Characters
 
-=== {mc_name} {mc_surname}
+=== {mc_heading}
 
 ==== Overview
 
@@ -378,11 +458,11 @@ She is obsessive, so when she’s a fan of something, she’s a *big* fan. She w
 She is sensitive and has a good sense of how other people feel, so she’s basically amiable and easy to like. However, she often struggles to care about or do anything out of her way to actually address the negative feelings she senses in other people.
 
 
-==== Spoilers follow
-If you're reading through this document for the first time, head on back to <<Chapter 1>>
+=== {mom_heading}
 
 
 
+
 '''
 '''
 '''
@@ -403,7 +483,7 @@ If you're reading through this document for the first time, head on back to <<Ch
 '''
 
 
-=== Zack
+=== {zk_nickname}
 
 ==== Name
 
