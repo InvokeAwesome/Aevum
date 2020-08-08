@@ -1,6 +1,7 @@
 // Document
 :toc2:
 :toclevels: 4
+:imagesdir: "images/"
 
 // Main Character
 :mc_name: Grace
