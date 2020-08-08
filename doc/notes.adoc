@@ -6,7 +6,6 @@
 :mc_name: Grace
 :mc_surname: Ahn
 :mc_heading: {mc_name} {mc_surname}
-:mc_line: GRACE
 :mc_outset-age: 25
 :mc_outset-location: Columbus, OH
 :mc_ethnicity: Korean-American
@@ -17,15 +16,13 @@
 // Mother
 :mom_name: Min-ji
 :mom_heading: {mom_name} {mc_surname}
-:mom_line: MIN-JI
 
 // Sibling
 :mc_sibling: younger brother
 :mc_sibling-c: Younger Brother
 :sib_gender: boy
 :sib_name: Yoon
-:sib_line: YOON
-:sib_line-u: YOUNG BOY
+:mom_heading: {sib_name} {mc_surname}
 :sib_pro: his
 :sib_pro-c: His
 :sib_trauma-age: 8
@@ -61,68 +58,101 @@
 
 === Chapter {counter:chapters}
 
+==== Style
+Iambic hexameter couplets. Semi-elevated style. 
 
+==== Setting 
+A beautiful, wooded trail in the Appalachian Mountains. 
 
-'''
-_Style:_ Iambic hexameter couplets. Semi-elevated style. +
+==== Opening Characters
+[horizontal]
+*<<{mom_heading}, Mother>>*::
+Hair in a ponytail  +
+Wearing baseball cap, blue jeans, white tanktop  +
+Carrying heavy hiking backpack  +
 
-_Setting:_ A beautiful, wooded trail in the Appalachian Mountains. +
+*<<{mc_heading}, {mc_trauma-age}-year-old girl>>*::
+Hair in a ponytail similar to her mother's  +
+Wearing a print T-shirt from last year's summer camp, pink cargo shorts.  +
+Brand new shoes that are slightly too big.  +
+Carrying a much smaller backpack filled with lightweight camping items 
 
-_Opening Characters:_
-****
-*<<{mom_heading}, Mother:>>*
- 
-* Hair in a ponytail
-* Wearing baseball cap, blue jeans, white tanktop
-* Carrying heavy hiking backpack
+*<<{sib_heading}, {sib_trauma-age}-year-old {sib_gender}>>*::
+Hair messy. Bowl cut.  +
+Star Trek print T-shirt  +
+Sweatpants  +
+Older shoes, starting to fray. White tube socks.  +
+Glasses, low prescription
 
-*<<{mc_heading}, {mc_trauma-age}-year-old girl:>>*
+==== Narratitve
 
-* Hair in a similar ponytail to her mother
-* Wearing a print T-shirt from last year's summer camp, pink cargo shorts. Brand new shoes that are slightly too big.
-* Carrying a much smaller backpack filled with lightweight camping items
+The above characters are hiking together along the side of a river, heading down the mountain.  +
+They all stop to get a drink.  +
 
-*<<{sib_heading}, {sib_trauma-age}-year-old {sib_gender}:>>*
+Mother [in {mc_native-language}]::
+"Kids, come put your hand in this river! It feels amazing."
 
-* Hair messy. Bowl cut.
-* Star Trek print T-shirt
-* Sweatpants
-* Older shoes, starting to fray. White tube socks.
-* Glasses, low prescription
+They do so, and it's surprisingly cold, like ice water.  +
 
-****
+They watch her take out a filter and process some water into their empty thermos jugs. +
 
-'''
+They all take deep draughts. It's the most refreshing, delicious water they've ever tasted.  +
 
-* The above characters are hiking together along the side of a river, heading down the mountain. 
-* They all stop to get a drink. 
-* *MOTHER:* speaking to them in {mc_native-language}, she tells them to feel the water. 
-* They do so, and it's surprisingly cold, like ice water. 
-* They watch her take out a filter and process some water into their empty thermos jugs.
-* They all take deep draughts. It's the most refreshing, delicious water they've ever tasted. 
-* The young girl sits there for a while and watches the water flow over and around some rocks. 
-* Up ahead, the stream splits into two different directions as it heads down the mountain. She watches with particular interest the point at which the stream bifurcates against a large, mossy boulder.
-* After their break is done, they follow the left-hand branch of the river further down. They can start to hear the rushing of a waterfall.
-* With increasing giddiness, the children start to pick up their pace. Their mother watches them contentedly. The roar of the waterfall gets louder.
-* Finally they see it: although the waterfall is by no means impressive compared to some of the others in these mountains, it is the largest the children have ever seen personally. They both squeal with delight, and describe everything they see in great detail to their mother who is also standing right there and looking at it.
-* She smiles at them and nods enthusiastically.
-* *MOTHER:* "See what we've been missing? Aren't you glad Dad finally let us come out here?"
-* *CHILDREN:* Both respond with a loud "YEAH!" that echoes through the forest.
-* *MOTHER:* "Maybe we can convince him to come with us next time. What do you think?"
-* *{sib_line-u}:* Proceeds to optimistically describe the particular way in which their Dad would agree to do so.
-* The girl is more pensive, but is clearly imagining the scenario with glee. 
-* They proceed downstream.
-* They want to cross the river at the base of the falls, where it's thinner.
-* Before they can do that, however, there is a fairly steep, 15-foot slope next to the waterfall that they must descend. There's no better point to descend nearby.
-* The mother heads down first. She lowers herself down to a narrow ledge about 4 feet down. Then, facing the slope, she picks her way back and forth along a path of sorts, which proves to be easily navigable with some patience. She reaches the bottom in less than 15 seconds
-* She then invites the children to come down.
-* They were at first captivated by their cool mom and her feat of dexterity, but now that they realize that they too must make the descent, they are suddenly gripped by fear.
-* *CHILDREN:* They complain, protesting the danger. Their small voices are almost drowned out by the sound of the waterfall, and they must shout to be heard.
-* The mother surveys the descent again, pointing out the steps they must take.
-* *MOTHER:* Raising her voice, she encourages them: "I'm right here, guys! Even if you did fall, I'd catch you. But you won't fall, because you're really strong! {mc_name}, you can go first, to show your {mc_sibling} how it's done."
-* *{mc_line}:*  Protests again
-* *MOTHER:* "You can do this, {mc_name}! It's gonna be alright."
-* {mc_name} stares at the ground beneath her, as the beating of her heart swells in her ears above the roaring of the waters.
+The young girl sits there for a while and watches the water flow over and around some rocks.  +
+
+Up ahead, the stream splits into two different directions as it heads down the mountain. She watches with particular interest the point at which the stream bifurcates against a large, mossy boulder. +
+
+After their break is done, they follow the left-hand branch of the river further down. They can start to hear the rushing of a waterfall. +
+
+With increasing giddiness, the children start to pick up their pace. Their mother watches them contentedly. The roar of the waterfall gets louder. +
+
+Finally they see it: although the waterfall is by no means impressive compared to some of the others in these mountains, it is the largest the children have ever seen personally. They both squeal with delight, and describe everything they see in great detail to their mother who is also standing right there and looking at it. +
+
+She smiles at them and nods enthusiastically. +
+
+Mother [in {mc_native-language}]::
+"See what we've been missing? Aren't you glad Dad finally let us come out here?"
+
+Children [in English]::
+"YEAH!!" 
+
+Mother [in {mc_native-language}]::
+"Maybe we can convince him to come with us next time. What do you think?"
+
+{mc_sibling-c} [alternating {mc_native-language} and English]::
+Proceeds to optimistically describe the particular way in which their Dad would agree to do so.
+
+The girl is more pensive, but is clearly imagining the scenario with glee.  +
+
+They proceed downstream. +
+
+They want to cross the river at the base of the falls, where it's thinner. +
+
+Before they can do that, however, there is a fairly steep, 15-foot slope next to the waterfall that they must descend. There's no better point to descend nearby. +
+
+The mother heads down first. She lowers herself down to a narrow ledge about 4 feet down. Then, facing the slope, she picks her way back and forth along a path of sorts, which proves to be easily navigable with some patience. She reaches the bottom in less than 15 seconds +
+
+She then invites the children to come down. +
+
+They were at first captivated by their cool mom and her feat of dexterity, but now that they realize that they too must make the descent, they are suddenly gripped by fear. +
+
+Children [in {mc_native-language}]::
+They complain, protesting the danger. 
+
+Their small voices are almost drowned out by the sound of the waterfall, and they must shout to be heard. +
+
+The mother surveys the descent again, pointing out the steps they must take. Raising her voice, she encourages them: +
+
+Mother [in {mc_native-language}]::
+ "I'm right here, guys! Even if you did fall, I'd catch you. But you won't fall, because you're really strong! {mc_name}, you can go first, to show your {mc_sibling} how it's done." +
+
+{mc_name} [in English]::
+Protests again +
+
+Mother [in English]::
+"You can do this, {mc_name}! It's gonna be OK." +
+
+{mc_name} stares at the ground beneath her, as the beating of her heart swells in her ears above the roaring of the waters.
 
 
 === Chapter {counter:chapters}
