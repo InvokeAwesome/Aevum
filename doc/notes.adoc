@@ -23,7 +23,7 @@
 :mc_sibling-c: Younger Brother
 :sib_gender: boy
 :sib_name: Yoon
-:mom_heading: {sib_name} {mc_surname}
+:sib_heading: {sib_name} {mc_surname}
 :sib_pro: his
 :sib_pro-c: His
 :sib_trauma-age: 8
