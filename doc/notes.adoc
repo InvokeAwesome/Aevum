@@ -89,6 +89,7 @@ Glasses, low prescription
 ==== Narratitve
 
 The above characters are hiking together along the side of a river, heading down the mountain.  +
+
 They all stop to get a drink.  +
 
 Mother [in {mc_native-language}]::
@@ -159,55 +160,157 @@ Mother [in English]::
 
 === Chapter {counter:chapters}
 
-'''
-_Style:_ Basic prose with periodic stream-of-consciousness
+==== Style
+Basic prose with periodic stream-of-consciousness
 
-_Setting:_ A dimly-lit two-bedroom apartment, in the evening. It's midsummer.
+==== Setting
+A dimly-lit two-bedroom apartment, in the evening. +
+It's midsummer (July) +
+Living room has a 51" flascreen TV on a stand across from a cheap-looking couch
+
+https://www.foxandhoundsaptsoh.com/apartments/oh/columbus/floor-plans#/categories/106111407/floorplans[Apartment Layout]
+
+==== Opening Characters
+
+[horizontal]
+<<{mc_heading}, {mc_outset-age}-year-old woman:>>::
+Hair in a messy bun, kind of frizzy. +
+Wearing yellow shorts and a faded, black print T-shirt. The shirt has some obscure anime fandom reference. +
+No makeup +
+She's been home all day 
+
+
+==== Narratitve
+The setting sun peeks out behind some clouds, and shines brightly through the living room window, directly into the flatscreen TV. +
+
+The young woman on the couch grumbles, enduring the situation for about 30 more seconds. +
+
+As the sun does not cease its shining, she grumbles again and musters the willpower to get up and close the blinds. Now the picture on the TV is much clearer. +
+
+She plops back down with a releived sigh to enjoy the fruit of her labors. +
+
+There's some kind of fantasy anime playing on the TV: +
+
+****
+_Setting:_ +
+Fantasy world with magic
+Specifically, a generic European medieval village
 
 _Opening Characters:_
+
+[horizontal]
+Protagonist::
+A young man with generic brown hair +
+Wearing a black-and-blue track suit +
+Holding an over-designed and unwieldy-looking sword +
+Average height
+
+Dragon::
+30-feet tall +
+European-style +
+Black, scaley, muscular +
+Red fire glows in its nostrils and in the back of its throat +
+Eyes are bright, glaring +
+Has an air of depraved, malicious intelligence
+
+_Narrative_: +
+
+The protagonist stares down a huge, black, demonic dragon. +
+
+He seems to be the only one left standing between it and a small medieval-style village. All other defenders have been slain or have fled. +
+
+The protagonist is panting, and sweating profusely. His hand trembles.  +
+
+He remembers all of the times he ran away or faltered in combat. He remembers the many times he has had to be saved by this world's heroes. But this time, they are not here, not yet at least. +
+
+He realizes that he could use a teleportation spell scroll in his pocket to escape, if he started the invocation now. But he's also keenly aware that, unlike him, the villagers here have nowhere to run. +
+
+He takes a deep breath, grips his sword tightly, and makes his choice. +
+
+Protagonist::
+Monologues at the dragon about his determination and how much he cares about the villagers and stuff. The delivery is horribly over-acted, and the lines are cheesy as hell.
 ****
 
-*<<{mc_heading}, {mc_outset-age}-year-old woman:>>*
-
-* Hair in a messy bun, kind of frizzy.
-* Wearing shorts and an old print T-shirt. The shirt has some obscure anime fandom reference. 
+The woman on the couch cringes a bit to herself, but her eyes remain locked on the screen to see what happens next. As the fight scene commences, she watches with quiet reverence.
 
 ****
+_Narrative (cont'd):_ +
 
-'''
+The protagonist holds his own for a little while, and a smile grows across his face. +
 
-* _Setting:_ 
-* The setting sun peeks out behind some clouds, and shines brightly through the living room window, directly into the flatscreen TV.
-* The young woman on the couch grumbles, enduring the situation for about 30 more seconds.
-* As the sun does not cease its shining, she grumbles again and musters the willpower to get up and close the blinds. Now the picture on the TV is much clearer.
-* She plops back down with a releived sigh to enjoy the fruit of her labors.
-* There's some kind of fantasy anime playing on the TV:
-** _Setting:_ A generic medieval world
-** A young man wearing a track suit is holding an over-designed and unwieldy-looking sword as he stares down a huge, black, demonic dragon.
-** He seems to be the only one left standing between it and a small medieval-style village. All other defenders have been slain or have fled.
-** The protagonist is panting, and sweating profusely. His hand trembles. 
-** He remembers all of the times he ran away or faltered in combat. He remembers the many times he has had to be saved by this world's heroes. But this time, they are not here, not yet at least.
-** He realizes that he could use a teleportation spell scroll in his pocket to escape, if he started the invocation now. But he's also keenly aware that, unlike him, the villagers here have nowhere to run.
-** He takes a deep breath, grips his sword tightly, and makes his choice.
-** *PROTAGONIST:* Proceeds to thoroughly ruin the mood by monologuing at the dragon about his determination and how much he cares about the villagers and stuff. The delivery is horribly over-acted, and the lines are cheesy as hell.
-* The woman on the couch cringes a bit to herself, but her eyes remain locked on the screen to see what happens next. As the fight scene commences, she watches with quiet reverence.
-** The protagonist holds his own for a little while, and a smile grows across his face.
-** *PROTAGONIST:* Predictably: "I can do this!"
-** And predictably, it's right at that moment that his guard is broken and he receives a crushing blow to the chest.
-** He's thrown violently into a wall, which caves in behind him from the impact. Blood erupts from his mouth, and he slumps to the ground.
-** His vision goes in and out as he watches the dragon's slow, unstoppable approach.
-** Pale, red fire glows in its nostrils, and the ground shakes with the sound of each titanic footfall.
-** It stands over him for a moment, looking down with utter contempt at his feebleness.
-** It raises a massive claw and brings it down towards him.
-** But right at that moment, there is a blinding light, a slashing sound, and a brilliant white arc through its wrist.
-** The claw falls to the ground, mere inches in front of the dying protagonist.
-** *YOUNG WOMAN:* "Well done holding him off, Hibiki-kun!"
-** The young woman who dealt the blow says this while still hurtling through the air.
-** She hits the ground in a kneeling posture between Hibiki and the dragon, which is now reeling back in pain. Her impractically short, unsullied white pleated skirt flutters dramatically as the impact of her landing kicks up a ring of dust. She slowly raises herself and assumes a wide fighting stance, her legs clapped in plate armor that reaches mid-thigh. Her silver breastplate glistens in the red light of the dragon's fire, and its blood is spattered on her face. She flicks her sword toward the ground, flinging the beast's dark gore in an arc away from her. She runs her other hand through her long, straight blonde hair.
+Protagonist::
+Predictably: "I can do this!" +
 
-She glances back at Hibiki, and smiles. "Thank you for giving us enough time to get here. You've saved this village."
+And predictably, it's right at that moment that his guard is broken and he receives a crushing blow to the chest. +
 
-Another young woman lands next to him, using a magical force to slow her final descent before touching down gracefully. She has long, elf-like ears, with green eyes and hair. Her rather revealing forest-themed costume flutters for a moment, and pale light surrounds her and the protagonist as she chants a healing spell. Feeling much better now, he stands up and joins the line as no less than five additional battle babes descend around him and proceed to hand the dragon his ass.
+He's thrown violently into a wall, which caves in behind him from the impact. Blood erupts from his mouth, and he slumps to the ground. +
+
+His vision goes in and out as he watches the dragon's slow, unstoppable approach. +
+
+Pale, red fire glows in its nostrils, and the ground shakes with the sound of each titanic footfall. +
+
+It stands over him for a moment, looking down with utter contempt at his feebleness. +
+
+It raises a massive claw and brings it down towards him. +
+
+But right at that moment, there is a blinding light, a slashing sound, and a brilliant white arc through its wrist. +
+
+The claw falls to the ground, mere inches in front of the dying protagonist. +
+
+_Character Introduced_: +
+[horizontal]
+Young woman::
+Slightly taller than the protagonist +
+Long, straight blonde hair +
+Blue eyes +
+Standard anime female facial features (pointy chin, big eyes, small nose, etc.) +
+Silver circlet on her head +
+Steel contoured breastplate, from which hangs studded leather strips about the waistin somewhat the style of a Roman legionary + 
+Red miniskirt, slightly shorter than the leather strips +
+Full-plate-style leg armor, up to mid-thigh +
+Weilding a longsword, which exudes a faint red light from the tip
+
+_Narrative Continues_: +
+
+[vertical]
+Young woman::
+"Well done holding him off, Hibiki-kun!" +
+
+The woman who dealt the blow says this while still hurtling through the air. +
+
+She hits the ground in a kneeling posture between Hibiki and the dragon, which is now reeling back in pain. Her skirt flutters dramatically as the impact of her landing kicks up a ring of dust. +
+
+She slowly raises herself and assumes a wide fighting stance +
+
+Her breastplate glistens in the red light of the dragon's fire, and its blood is spattered on her face. +
+
+She flicks her sword toward the ground, flinging the beast's dark gore in an arc away from her. +
+
+She runs her other hand through her hair.
+
+She glances back at Hibiki, and smiles.
+
+Young woman::
+"Thank you for giving us enough time to get here. You've saved this village."
+
+_Character Introduced_: +
+[horizontal]
+Elf woman::
+Even taller than the first woman +
+Has very long, elf-like ears
+Green eyes and hair
+Obnoxiously large breasts
+Wearing a skimpy costume that evokes a forest nymph, in about the same pattern as a one-piece bathing suit.
+
+
+_Narrative Continues_: +
+Another young woman lands next to him, using a magical force to slow her final descent before touching down gracefully. +
+
+Her clothes flutter for a moment, and pale light surrounds her and the protagonist as she chants a healing spell. +
+
+Feeling much better now, he stands up and joins the line as no less than five additional battle babes descend around him and proceed to hand the dragon his ass.
+
+****
 
 Meanwhile, the viewer has gotten up to get a glass of soy milk from the fridge. She then spies the papers on the counter... her assignment for tomorrow's anatomy class.
 
