@@ -200,10 +200,11 @@ _Opening Characters:_
 
 [horizontal]
 Protagonist::
-A young man with generic brown hair +
+A young man with generic brown hair and brown eyes +
 Wearing a black-and-blue track suit +
 Holding an over-designed and unwieldy-looking sword +
 Average height
+Relatively thin build
 
 Dragon::
 30-feet tall +
