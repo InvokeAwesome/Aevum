@@ -229,7 +229,7 @@ He realizes that he could use a teleportation spell scroll in his pocket to esca
 
 He takes a deep breath, grips his sword tightly, and makes his choice. +
 
-Protagonist::
+Protagonist [in Japanese]::
 Monologues at the dragon about his determination and how much he cares about the villagers and stuff. The delivery is horribly over-acted, and the lines are cheesy as hell.
 ****
 
@@ -240,7 +240,7 @@ _Narrative (cont'd):_ +
 
 The protagonist holds his own for a little while, and a smile grows across his face. +
 
-Protagonist::
+Protagonist [in Japanese]::
 Predictably: "I can do this!" +
 
 And predictably, it's right at that moment that his guard is broken and he receives a crushing blow to the chest. +
@@ -275,7 +275,7 @@ Weilding a longsword, which emits a halo of faint purple light from the tip
 _Narrative Continues_: +
 
 [vertical]
-Young woman::
+Young woman [in Japanese]::
 "Well done holding him off, Hibiki-kun!" +
 
 The woman who dealt the blow says this while still hurtling through the air. +
@@ -292,7 +292,7 @@ She runs her other hand through her hair.
 
 She glances back at Hibiki, and smiles.
 
-Young woman::
+Young woman [in Japanese]::
 "Thank you for giving us enough time to get here. You've saved this village."
 
 _Character Introduced_: +
