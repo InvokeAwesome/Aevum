@@ -204,7 +204,7 @@ Protagonist::
 A young man with generic brown hair and brown eyes +
 Wearing a black-and-blue track suit +
 Holding an over-designed and unwieldy-looking sword +
-Average height
+Average height +
 Relatively thin build
 
 Dragon::
