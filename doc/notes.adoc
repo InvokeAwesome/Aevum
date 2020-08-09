@@ -314,27 +314,65 @@ Feeling much better now, he stands up and joins the line as no less than five ad
 
 ****
 
-Meanwhile, the viewer has gotten up to get a glass of soy milk from the fridge. She then spies the papers on the counter... her assignment for tomorrow's anatomy class.
+Meanwhile, the viewer has gotten up to get a glass of soy milk from the fridge, keeping her eye on the screen. +
 
-"Uh, oh yeah. Groan. So much for tonight's binge."
+She then spies the papers on the counter... her assignment for tomorrow's anatomy class. +
 
-She pauses the playback and turns off the TV. Her roommate comes out of her bedroom and peeks down the hallway.
+Viewer [in English]::
+"Uhhh, oh yeah." She lets out a frustrated groan. "So much for tonight's binge."
 
-"Hey Grace, is the TV free?" she asks.
+She pauses the playback and turns off the TV. +
 
-"Yeah, go for it." Grace walks back toward her own bedroom with the papers and her glass of milk. 
+Her roommate instantly opens her bedroom door and peeks down the hallway.
 
-She enters her room and closes the door, through which wafts the muffled bickering of reality TV stars. She puts on some bluetooth headphones and starts her regular focusing playlist (consisting mostly of Japanese pop music and video game soundtracks.) She cracks open her laptop and starts banging away at the assignment (a clinical reasoning case.)
+_Character Introduced_: +
+[horizontal]
+<<{rm_heading}, Roommate>>::
+Fairly short +
+Sandy blonde hair +
+Somewhat blemished complexion, well-hidden with makeup +
+Wearing a white camisole and black shorts
 
-This one is actually more fun than usual, because it's a physical trauma case in a disaster scenario. As an aspiring disaster relief doctor, this is right up her alley. She is able to confidently answer several of the questions from memory, but eventually gets stuck and has to start scouring her textbooks.
+[vertical]
+Roommate::
+"Hey {mc_name}, is the TV free?"
 
-While she's flipping pages, she comes across a picture that reminds her of a character from an anime show she used to adore back in middle school. The genre was "isekai," meaning "other world," which means it was centered around a protagonist from our world that gets magically transported to a fantasy world. She still loves this genre, and in fact the show she was watching just now was a recent example. Her brain dredges up favorite scenes, and she winces as she remembers the extent of her obsession.
+{mc_name}::
+"Yeah, go for it."
 
-It went beyond merely enjoying the show and the genre broadly. She actually held on to a deep-seated belief that she would one day be swept off into another world, where she could live the fantasy that she was yearning for. Grace mentally rehearses all of the preparations she made, ranging from always carrying survival supplies to studying how to communicate with people who don't share a language with you. She tried her hand at things like marksmanship, martial arts, and even swordplay, but didn't have the discipline to keep up with them for long. (She still tells herself that she's just on hiatus from her martial arts, though.)
+{mc_name} walks back toward her own bedroom with the papers and her glass of milk.
 
-These thoughts lead inexorably to the same conclusion as always: "It was all childish bullshit. I was a cringey, deluded idiot." There are no fantasy worlds, no magical heroes who will fall in love with her. It's pure escapism, meant to distract us from the bleakness of the real world for a few happy minutes, or hours. She bought in to it so deeply entirely because she wasn't happy with her life. How the hell did it take her until {mc_acceptance-age} to finally accept this?
+She enters her room and closes the door
 
-She has gone through this exact thought process countless times, in the exact same sequence. On queue, she next notices her complusive face-touching, and went over what she had touched recently. She had been typing on her keyboard, which she can't remember wiping down recently, so she goes to wash her hands and face. That done, she stares at herself in the bathroom mirror, looking herself over. She's still pretty, definitely in the "attractive" category. She adjusts her posture to best conceal the small paunch peeking out over her belt, and fusses with her black, straight hair. She'll probably go ahead and get double eyelids done at some point, but honestly she's pretty good as is. 
+There is heard the muffled bickering of reality TV stars. +
+
+She puts on some bluetooth headphones and starts her regular focusing playlist (consisting mostly of Japanese pop music and video game soundtracks.) +
+
+She cracks open her laptop and starts banging away at the assignment, which is a clinical reasoning case:
+
+* Physical trauma case in a disaster scenario.
+* Struck on the head with rubble, right arm broken as well
+* Dilated eyes
+* Acting paranoid
+
+As an aspiring disaster relief doctor, this is right up her alley. She is able to confidently answer several of the questions from memory, but eventually gets stuck and has to start scouring her textbooks. +
+
+While she's flipping pages, she comes across a picture that reminds her of a scene from an https://en.wikipedia.org/wiki/Isekai[Isekai] anime show she used to adore back in middle school. She still loves this genre, and in fact the show she was watching just now was a recent example. +
+
+Her brain dredges up favorite scenes, and she winces as she recalls the extent of her obsession. +
+
+See <<Past Obsession with Isekai>>.
+
+These thoughts lead inexorably to the same conclusion as always:
+
+{mc_name} [thinking]::
+It was all childish bullshit. I was a cringey, deluded idiot. There are no fantasy worlds, no magical heroes who will fall in love with me. It's pure escapism, meant to distract us from the bleakness of the real world for a few happy minutes, or hours. I bought in to it so deeply entirely because I wasn't happy with my life. How the hell did it take me until {mc_acceptance-age} to finally accept this?
+
+She has gone through this exact thought process countless times, in the exact same sequence. On queue, she next notices her complusive face-touching, and went over what she had touched recently. +
+
+She had been typing on her keyboard, which she can't remember wiping down recently, so she goes to wash her hands and face. +
+
+That done, she stares at herself in the bathroom mirror, looking herself over. She's still pretty, definitely in the "attractive" category. She adjusts her posture to best conceal the small paunch peeking out over her belt, and fusses with her black, straight hair. She'll probably go ahead and get double eyelids done at some point, but honestly she's pretty good as is.
 
 She remembers the assignment, but she's getting really tired. She raps on the sink with her index finger while she runs some numbers. She could probably turn it in as is and get at least 7 of the 10 points it was worth. She's been pretty good with this class, she can afford it and still get an A, or A* at worst. She goes back into her room, turns off the lights, and flops in bed, still in her clothes. The belt's a bit uncomfortable so she awkwardly yanks it out and tosses it somewhere on the floor.
 
@@ -562,11 +600,12 @@ She’s often frumped out due to laziness and a busy schedule, but she cleans up
 
 She first started to become obsessed with the concept of the fantasy hero when she was young and started getting into anime and video games.
 
-Her obsession was more than just enjoying the media, though… she held onto a belief that someday she could and would have an actual fantastic experience like her fictional heroes.
+==== Past Obsession with Isekai
+This went beyond merely enjoying the show and the genre broadly. She actually held on to a deep-seated belief that she would one day be swept off into another world, where she could live the fantasy that she was yearning for. Grace mentally rehearses all of the preparations she made, ranging from always carrying survival supplies to studying how to communicate with people who don't share a language with you. She tried her hand at things like marksmanship, martial arts, and even swordplay, but didn't have the discipline to keep up with them for long. (She still tells herself that she's just on hiatus from her martial arts, though.)
 
 It took her until just recently to finally discard those notions and accept “real life.”
 
-Her motivations for studying medicine are as follows:
+==== Motivations for studying medicine
 
 * She is a hypochondriac and is deathly afraid of something being wrong with her body. It became exhausting and expensive to go see medical professionals constantly, so she decided to learn how to diagnose and treat herself.
 * She figures that being a doctor is the best way to realistically play out her savior fantasies. She actually can learn how to save people’s lives, after all.
