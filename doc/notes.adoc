@@ -373,13 +373,28 @@ She has gone through this exact thought process countless times, in the exact sa
 
 She had been typing on her keyboard, which she can't remember wiping down recently, so she goes to wash her hands and face. +
 
-That done, she stares at herself in the bathroom mirror, looking herself over. She's still pretty, definitely in the "attractive" category. She adjusts her posture to best conceal the small paunch peeking out over her belt, and fusses with her black, straight hair. She'll probably go ahead and get double eyelids done at some point, but honestly she's pretty good as is.
+That done, she stares at herself in the bathroom mirror, looking herself over. She adjusts her posture to best conceal the small paunch peeking out over her belt, and fusses with her black, straight hair. She wonders if she should go ahead and get double eyelids done at some point. +
 
-She remembers the assignment, but she's getting really tired. She raps on the sink with her index finger while she runs some numbers. She could probably turn it in as is and get at least 7 of the 10 points it was worth. She's been pretty good with this class, she can afford it and still get an A, or A* at worst. She goes back into her room, turns off the lights, and flops in bed, still in her clothes. The belt's a bit uncomfortable so she awkwardly yanks it out and tosses it somewhere on the floor.
+She remembers the assignment, but she's getting really tired. She raps on the sink with her index finger while she runs some numbers. She could probably turn it in as is and get at least 7 of the 10 points it was worth. She's been pretty good with this class, she can afford it and still get an A, or A- at worst. +
 
-Yeah, this is reality. This is what we have to work with. The closest thing she'll get to being a hero is helping people as a doctor, like her Mom. Her Mom's a real hero, unlike those sword-swinging magical sex symbols. She wonders if she could get away with wearing a miniskirt like that at church. They're getting more culturally acceptable, and they're super cute.
+She goes back into her room, turns off the lights, and flops in bed, still in her clothes. +
 
-She tries to recall the sermon from last Sunday. It takes about a minute of concentrated thought to bring up a vague theme about faith. There's one line she can remember clearly: "God does not owe you any more proof of his existence than the fact that you are here thinking about it." 
+The belt's a bit uncomfortable so she awkwardly yanks it out and tosses it somewhere on the floor.
+
+{mc_name} [thinking]::
+Yeah, this is reality. This is what we have to work with. The closest thing I'll get to being a hero is helping people as a doctor, like Mom. Mom's a real hero, unlike those sword-swinging magical sex symbols.
+
+She wonders with morbid curiosity if she could get away with wearing a miniskirt like that at church. +
+
+She tries to recall the sermon from last Sunday. It takes about a minute of concentrated thought to bring up a vague theme about faith. +
+
+There's one line she can remember clearly: "God does not owe you any more proof of his existence than the fact that you are here thinking about it." +
+
+She turns the phrase over in her mind, as she considers all of the evidence in support of the fact that she is here through purely emergent processes. +
+
+{mc_name} [thinking]::
+Maybe God was also invented through an escapist impulse. Maybe people just couldn't deal with their own mortality and mundanity, so they wanted something more to be out there. 
+
 
 +++ <details><summary> +++
 *Hidden Motivations (Spoilers)*
@@ -404,29 +419,30 @@ God: All things work together for good to those who love Him:
 
 
 === Chapter {counter:chapters}
-The language in this chapter is substantially more elevated than the previous or subsequent chapters.
 
-+++ <details><summary> +++
-*TODO Note (spoilers)*
-+++ </summary><div> +++
-****
-Should this be in verse (angelic), but CH 1 be in prose (mortal)?
-****
-+++ </div></details> +++
+==== Style
 
-{mc_name} is having an out of body experience. She sees her own spirit plotting its way through a chaotic temporal landscape. She looks up and sees a tether to what she senses is also her spirit looming over her, controlling her like a puppet. She then, further out of body, sees herself in this situation as a glittering string of sequential time states all at once. Then the strings unwind into a billion strands so small as to be indistinguishable. These stretch on ahead in many directions, coalescing into a crystalline ocean of possibilities, with waves that break against massive, impenermeable voids. She looks up to see a winged woman staring at her in this undulating space... the woman is not her, but sometimes she looks just like her for a split second. {mc_name} thinks she must be an angel.
+Heroic couplets again, but the language in this chapter is substantially more elevated than that of the first chapter.
+
+==== Setting
+
+{mc_name} is having an out-of-body experience.
+
+==== Opening Characters
+
+[horizontal]
+<<{mc_heading}, {mc_name}:>>::
+She is dressed in a white, floor-length robe, and nothing else +
+The robe is stained in several places +
+Her hair is loose and floating as if submerged in water +
+No glasses, but can see better than she would expect. Her vision is still somewhat blurry.
+
+==== Narrative
+{mc_name} sees her own spirit plotting its way through a chaotic temporal landscape. She looks up and sees a tether to what she senses is also her spirit looming over her, controlling her like a puppet. She then, further out of body, sees herself in this situation as a glittering string of sequential time states all at once. Then the strings unwind into a billion strands so small as to be indistinguishable. These stretch on ahead in many directions, coalescing into a crystalline ocean of possibilities, with waves that break against massive, impenermeable voids. She looks up to see a winged woman staring at her in this undulating space... the woman is not her, but sometimes she looks just like her for a split second. {mc_name} thinks she must be an angel.
 
 The angel's gaze shifts to something behind her. {mc_name} turns and sees darkness and horror enveloping her, slashing and clawing and grasping for her with a thousand deformed hands. She tries to move away, but can't feel her legs. She tries to scream but can't make a sound. The only thing she can coherently remember about her life before this awful fear is a prayer her mother would say with her at bed time, when she was little. She tries to say the prayer aloud, but can only mouth the words with great difficulty.
 
 Soon, as though sensing a predator approaching, the darkness hesitates, and then reluctantly retreats. A pale, and then blinding light appears, and a fiery, glowing hand lifts her up. A man's voice says, "Do not fear, little one." Her eyes, up until now being shut tightly with fear, and now because of the light, begin to open as the light moves away and inhabits a distant place, behind the crystal ocean.
-
-+++ <details><summary> +++
-*Spoiler*
-+++ </summary><div> +++
-****
-The demon is {ry_nickname} himself
-****
-+++ </div></details> +++
 
 The angel from before is seen standing up and removing her wings from covering her own head, and standing up from a prostrate bowing posture, facing where the light came from. There seems to be a floor now, or at least {mc_name} feels that "up" and "down" are meaningful again. A ripple in the sea is seen from a different direction, and a lesser but still brilliant light approaches. The angel again shields her face, but with only one wing. She bows, but does not prostrate herself this time. {mc_name} squints.
 
