@@ -432,7 +432,7 @@ Heroic couplets again, but the language in this chapter is substantially more el
 
 [horizontal]
 <<{mc_heading}, {mc_name}:>>::
-She is dressed in a white, floor-length robe, and nothing else +
+She is dressed in a white, floor-length robe, a white veil, and nothing else +
 The robe is stained in several places +
 Her hair is loose and floating as if submerged in water +
 No glasses, but can see better than she would expect. Her vision is still somewhat blurry.
