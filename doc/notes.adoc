@@ -395,6 +395,7 @@ She turns the phrase over in her mind, as she considers all of the evidence in s
 {mc_name} [thinking]::
 Maybe God was also invented through an escapist impulse. Maybe people just couldn't deal with how mundane and short their mortal lives were, so they wanted something more to be out there. 
 
+Her thoughts drift away as she falls asleep
 
 +++ <details><summary> +++
 *Hidden Motivations (Spoilers)*
