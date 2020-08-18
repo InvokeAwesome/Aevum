@@ -40,18 +40,25 @@
 // Zack
 :zk_true-name: Tsadq
 :zk_nickname: Zack
+:zk_header: {zk_nickname}
 :zk_outset-age: 295
 
 // Eve
 :ev_true-name: Hyav
 :ev_nickname: Eve
+:ev_header: {ev_nickname}
 :ev_outset-age: 295
 
 // Jason
 :js_nickname: Jason
+:js_header: {js_nickname}
 
 // Raynor
 :ry_nickname: Raynor
+
+// Guardian Angel
+:ga_name: {mc_name}'s Guardian Angel
+:ga_heading: {ga_name}
 
 = Aevum Notes
 
@@ -691,7 +698,10 @@ She is sensitive and has a good sense of how other people feel, so she’s basic
 '''
 
 
-=== {zk_nickname}
+=== {ga_header}
+
+
+=== {zk_header}
 
 ==== Name
 
@@ -752,7 +762,7 @@ He used to be a pretty big jerk because of his pride and critical nature, but ha
 However, despite his carefully-groomed external charisma, nothing about him is charitable. Everything he does is ultimately for himself, and he often uses others to his own advantage. His preference is to find a “win-win,” but he doesn’t hesitate to step on people when such a solution can't be found. His relationship with Eve is one such "win-win," but he has grown so accustomed to viewing her as an asset that he scarcely ever looks at her through the eyes of selfless love.
 
 
-=== Eve
+=== {ev_header}
 
 ==== Name 
 “{ev_true-name}” comes from the semitic root ḥyw, from which the biblical Eve derives her name (“Havah” or “Hawwah”). It means “life,” i.e. "Mother of all the Living" for the biblical Eve.
@@ -815,7 +825,7 @@ Finally, everything she does is 100% self-motivated. The people-pleasing is all 
 * She is by no means of a logical disposition, and so cannot be considered “calculating” with her actions. Rather than planning and manipulating, she more or less intuits how best to modify herself to maximize her public esteem.
 * But the targets of her attention and service are carefully selected based on the degree to which she thinks they can elevate her. Once she decided that Zack was her best shot, she spent very little time or energy trying to please anyone else.
 
-=== Jason
+=== {js_header}
 
 ==== Name 
 Haven't settled on a name yet. The character is vaguely derived from a "Jason" from the original story so I'll go with that for now.
