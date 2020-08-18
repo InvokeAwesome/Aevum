@@ -454,7 +454,19 @@ She then, further out of body, sees herself in this situation, along with the mo
 
 Then the strings unwind into a billion strands so small as to be indistinguishable. These stretch on ahead in many directions, coalescing into a crystalline ocean of possibilities, with waves that break against massive, impermeable voids. +
 
-She looks up to see a winged woman staring at her in this undulating space... the woman is not her, but sometimes she looks just like her for a split second. {mc_name} thinks she must be an angel. +
+She looks up to see a winged woman staring at her in this undulating space... the woman is not her, but sometimes she looks just like her for a split second. +
+
+{mc_name} thinks she must be an angel. +
+
+_Character Introduced_: +
+[horizontal]
+<<{ga_heading}, Angel>>::
+Wings folded behind her back +
+Standing stock still, unblinking +
+Her halo is dim, but visible +
+Dressed in a sleeveless, floor-length gown. It is a very light gray, not quite white.
+Over this is wrapped a fine silver chain that rests over the hips, crossing itself in front, and meeting around the back of the neck.
+[vertical]
 
 The angel glances up, her gaze shifting to something behind {mc_name}. +
 
