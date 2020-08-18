@@ -495,15 +495,53 @@ A ripple in the sea is seen from a different direction, and a lesser but still b
 
 The angel again shields her face, but with only one wing. She bows, but does not prostrate herself this time. +
 
-{mc_name} squints and covers her eyes as well.
+{mc_name} squints and covers her eyes as well. +
 
-This new being is also an angel, and appears as an amorphous, fiery entity, looks at the first angel and asks a question in an unintelligible language. In reply, she points in the direction that the demon retreated. The second angel looks in that direction, then turns to {mc_name} as if he just noticed her. As he turns her direction, his appearance shifts to become first humanoid, and then fully human.
+This new being is also undoubtedly an angel, but one far more powerful and glorious than the first. +
 
-He stretches forth his hand at her. {mc_name} begins to fall at startling speeds. Earth and specifically her house and bedroom are beneath and she hurtles toward her sleeping body.
+_Character Introduced_: +
+[horizontal]
+Second Angel::
+He appears as an amorphous, fiery entity. +
 
-She wakes up screaming, in a cold sweat. She does not calm down for some time. She eventually begins to pray silently, her lips moving to the words of that same bedtime prayer, and she calms down. With her mind still trembling from the intensity and otherness of the experience, she gets up and turns on a lamp at her desk, but not before stumbling over some books on the floor.
+[vertical]
+He looks at the first angel and asks a question in an unintelligible language. +
 
-She opens her laptop, and logs in, failing at the password five times, because her hands are shaking and her fingers are stiff. She closes an open web browser, opens a word editor, and writes down everything that happened. Though she struggles to find words to describe it, she remembers everything clearly. She spends a lot of time in prayer that night and doesn't fall back to sleep until two hours before she has to get up for school. (This is probably the most time she has spent in prayer in her entire life.)
+In reply, she points in the direction that the demon retreated. +
+
+The second angel looks in that direction, then turns to {mc_name} as if he just noticed her. +
+
+As he turns her direction, his appearance shifts to become first humanoid, and then fully human.
+
+He stretches forth his hand at her. +
+
+{mc_name} begins to fall at startling speeds. Earth and specifically her house and bedroom are beneath and she hurtles toward her sleeping body. +
+
+She wakes up screaming, in a cold sweat. +
+
+Her screams are more than loud enough to wake up her roommate, as well as her neighbors below and next to their apartment. +
+
+Roommate::
+"Whoa! Whoa... Uh hey are you OK?"
+
+{mc_name} [haltingly]::
+"Yes, just a bad dream!"
+
+She does not calm down for some time. +
+
+She eventually begins to pray silently, her lips moving to the words of that same bedtime prayer, and she calms down. +
+
+With her mind still trembling from the intensity and otherness of the experience, she gets up and walks to her desk +
+
+She stumbles over some books on the floor before sitting down at her desk and turning on the lamp. +
+
+She opens her laptop, and logs in, failing at the password five times, because her hands are shaking and her fingers are stiff. +
+
+She closes a web browser open to Facebook, opens a word editor, and writes down everything that happened. +
+
+Though she struggles to find words to describe it, she remembers everything clearly. +
+
+She spends a lot of time in prayer that night and doesn't fall back to sleep until two hours before she has to get up for school. (This is probably the most time she has spent in prayer in her entire life.)
 
 +++ <details><summary> +++
 *Hidden Motivations (Spoilers)*
