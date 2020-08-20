@@ -584,7 +584,7 @@ There is an old man, a middle-aged man, and a young woman, and they appeared in 
 _Character Introduced_: +
 [horizontal]
 <<ev_heading, Armored Woman>> ::
-See link:images/Eve_Illustration_005_(Kevin_White).psd[this image] for costume
+See link:images/Eve_Illustration_005_(Kevin_White).png[this image] for costume
 
 <<zk_heading, Middle-aged Man>> ::
 Dressed in ornate vestments, possibly religious in character.
