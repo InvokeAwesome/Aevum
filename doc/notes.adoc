@@ -583,11 +583,19 @@ There is an old man, a middle-aged man, and a young woman, and they appeared in 
 
 _Character Introduced_: +
 [horizontal]
-<<ev_heading, Armored Woman>> ::
-See link:images/Eve_Illustration_005_(Kevin_White).png[this image] for costume
+<<ev_header, Armored Woman>> ::
+See link:images/Eve_Illustration_005_(Kevin_White).png[this image] for costume +
+Currently armed with the rifle depicted there
 
-<<zk_heading, Middle-aged Man>> ::
-Dressed in ornate vestments, possibly religious in character.
+<<zk_header, Middle-aged Man>> ::
+Dressed in ornate vestments, possibly religious in character. +
+Wearing a thin golden crown +
+No weapons
+
+<<js_header, Old Man>> ::
+Wearing very plain, uncomfortable-looking clothing.
+Aside from his well-trimmed beard, he seems almost like a beggar from a third-world country. +
+No weapons
 
 [vertical]
 
@@ -595,13 +603,23 @@ The woman has what is unmistakably a futuristic assault weapon, and has used it 
 
 She seems to not have intentionally killed anyone yet, but has destroyed roads and walls as they've made their escape from the SWAT teams sent to apprehend them. +
 
-Bullets have been seen to deflect around her by virtue of a strange, barely-visible polygonal shape that surrounds her and moves with her. She can leap several stories at once and run at incredible speeds.
+Bullets have been seen to deflect around her by virtue of a strange, barely-visible polygonal shape that surrounds her and moves with her. +
 
- He is also seemingly protected from projectiles by another invisible shield. He does not have any weapons, nor does he seem to have any special abilities. The woman shields him scrupulously, and carries him when she needs to leap or run quickly.
+She can leap several stories at once and run at incredible speeds. +
 
-The old man wears very plain, uncomfortable-looking clothing. Aside from his well-trimmed beard, he seems almost like a beggar from a third-world country. The woman does not seem concerned with protecting him, yet he somehow consistently evades capture. Well, actually, he *has* been captured several times, because he never puts up any resistance. But each time, shortly after being detained, he disappears, sometimes reappearing with the other two. He has even been caught on camera simply opening the door of the police cruiser and just walking out, the handcuffs simply falling off, and no one seeming to notice him.
+The middle-aged man is also seemingly protected from projectiles by a similar, invisible shield. +
 
-After watching for a bit and finally being convinced that it was all real, she bolts out of class and heads home. She begins to pack for her journey to find these people, because there is no doubt in her mind that these are the heroes she has always dreamed about.
+He does not have any weapons, nor does he seem to have any special abilities. +
+
+The woman shields him scrupulously, and carries him when she needs to leap or run quickly. +
+
+As for the old man, the woman does not seem concerned with protecting him, yet he somehow consistently evades capture. Well, actually, he *has* been captured several times, because he never puts up any resistance. +
+
+Each time, shortly after being detained, he disappears, sometimes reappearing with the other two. He has even been caught on camera simply opening the door of the police cruiser and just walking out, the handcuffs simply falling off, and no one seeming to notice him. +
+
+After watching for a bit and finally being convinced that it was all real, she bolts out of class and heads home. +
+
+There is no doubt in her mind that these are the heroes she has always dreamed about.
 
 +++ <details><summary> +++
 *Hidden Motivations (Spoilers)*
