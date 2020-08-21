@@ -584,11 +584,11 @@ She groggily combed through her hair a few times, but it's greasy and frizzy +
 
 ==== Narrative
 
-Her alarm wakes her at the usual time. +
+Her alarm wakes {mc_name} at the usual time. +
 
 She wakes up feeling worse than when she finally fell asleep. However, try as she might, she cannot fall back asleep. +
 
-Despite her academic grades-bargaining she did last night, she has no desire to stay here, alone in her apartment, so she heads to class, albeit a few minutes late. +
+Despite the academic grades-bargaining she did last night, she has no desire to stay here, alone in her apartment, so she heads to class, albeit a few minutes late. +
 
 Her trip to class is mentally foggy. The superposition of her mundane, regular life on top of the memory of last night's vision is confusing and surreal. +
 
