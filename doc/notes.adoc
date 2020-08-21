@@ -664,35 +664,60 @@ Satan (actual): This is not the case. He wants her to take them (and herself) ba
 
 === Chapter {counter:chapters}
 
-As she drives home, fatigue and anxiety encroach upon her. She's had less than two hours of sleep, just went through the most harrowing experience of her life, and on top of that, now reality itself seems to be turned on its head. She had just gotten over her childhood dreams, and now they suddenly come true?
 
-She began her drive home filled with determination to not let this chance go. But as she drives home, her mind starts to fill with doubts. She talks aloud, trying to convince hersef to go:
+As she drives home, fatigue and anxiety encroach upon her. She's had less than two hours of sleep, just went through the most harrowing experience of her life, and on top of that, now reality itself seems to be turned on its head. +
 
+She had just gotten over her childhood dreams, and now they suddenly come true? +
+
+She began her drive home filled with determination to not let this chance go. +
+
+But as she drives home, her mind starts to fill with doubts. She talks aloud, trying to convince hersef to go. +
+
+{mc_name}::
 "Could this have just been a well-crafted internet hoax?"
 
-*"But there are so many sources... if it's fake it's impossible to tell. I have to look into it myself at this point, before they disappear."*
+{mc_name}::
+"But there are so many sources... if it's fake it's impossible to tell. I have to look into it myself at this point, before they disappear."
 
+{mc_name}::
 "Even if it's all real, what good would going there do? Why would they want anything to do with me?"
 
-*"They looked like they were hurt, and they obviously can't stop at a hostpital. I have a world-class first-aid kit and I'm as good as a professional EMT. I can help them."*
+{mc_name}::
+"They looked like they were hurt, and they obviously can't stop at a hostpital. I have a world-class first-aid kit and I'm as good as a professional EMT. I can help them."
 
+{mc_name}::
 "How will I keep up with them? I can't even run a quarter mile, let alone jump from building to building like that badass Space Marine chick. DAMN she's cool. Damn.
 
-*"It looks like running is not what they need to do right now... they need to hide.  They probably don't have any money, don't know where they are, and don't speak the language. Everyone knows their faces. They need someone to keep them fed and out of sight. Good thing I'm loaded! Also good thing I spent all that time studying universal communication for this exact scenario, ha! HAHA! How is this happening??"*
+{mc_name}::
+"It looks like running is not what they need to do right now... they need to hide.  They probably don't have any money, don't know where they are, and don't speak the language. Everyone knows their faces. They need someone to keep them fed and out of sight. Good thing I'm loaded! Also good thing I spent all that time studying universal communication for this exact scenario, ha! HAHA! How is this happening??"
 
+{mc_name}::
 "OK, but how do I get them to trust me? Obviously they need my help, but I'm a total stranger... how would they know that I'm not trying to lead them into a trap?"
 
-*"Yeah that's a tough one, especially because the most effective way to detain them would be to plant an agent that can get to them while they're sleeping. The full-frontal attacks haven't been working obviously, because Xena over here kicks every ass in SIGHT. DAMN, girl!"*
+{mc_name}::
+"Yeah that's a tough one, especially because the most effective way to detain them would be to plant an agent that can get to them while they're sleeping. The full-frontal attacks haven't been working obviously, because Xena over here kicks every ass in SIGHT. DAMN, girl!"
 
-*"...I don't know, they're probably desperate, and I look pretty harmless. I'm young and out of shape. Not exactly secret agent material. I'll just have to take my chances and be as helpful as possible."*
+{mc_name}::
+"...I don't know, they're probably desperate, and I look pretty harmless. I'm young and out of shape. Not exactly secret agent material. I'll just have to take my chances and be as helpful as possible."
 
+{mc_name}::
 "Alright, saying they do take me in, what then? They're running for their lives. If we're found, I could be imprisoned and tortured, or maybe even killed..."
 
 This gives her pause. 
 
-She clenches her teeth. Her hands grip the wheel tighter. She stares at a single point on the road, all else fading out of focus, as her thoughts spiral downward.
+She clenches her teeth. +
 
-She's brought back to reality by the blaring of a horn, from a sedan in the oncoming lane that's about to smash right through her. She veers back into her lane, almost side-swiping another car that's trying desperately to pass her. More horns. The tires screech as the car fish-tails, and she goes spinning into the shoulder.
+Her hands grip the wheel tighter. +
+
+She stares at a single point on the road, all else fading out of focus, as her thoughts spiral downward. +
+
+She's brought back to reality by the blaring of a horn, from a sedan in the oncoming lane that's about to smash right through her. +
+
+She veers back into her lane, almost side-swiping another car that's trying desperately to pass her. +
+
+More horns. +
+
+The tires screech as the car fish-tails, and she goes spinning into the shoulder.
 
 === Chapter {counter:chapters}
 
