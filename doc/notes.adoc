@@ -563,6 +563,26 @@ Eventual Virtue: *Humility*
 
 === Chapter {counter:chapters}
 
+==== Style
+
+Verse again, I think? Probably fairly blunt and matter-of-fact until she sees the video, at which point the imagery will gain a lot of color.
+
+==== Setting
+
+The bulk of the chapter takes place in her classroom. +
+
+She is at the Ohio State University College of Medicine +
+
+The classroom is arranged like a large lecture hall, but with full desks
+
+==== Opening Characters
+
+[horizontal]
+<<{mc_heading}, {mc_name}:>> ::
+She is wearing the same clothes as yesterday, although she did put a bra on to go out +
+She groggily combed through her hair a few times, but it's greasy and frizzy +
+
+==== Narrative
 
 Her alarm wakes her at the usual time. +
 
