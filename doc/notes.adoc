@@ -67,7 +67,7 @@
 === Chapter {counter:chapters}
 
 ==== Style
-Iambic hexameter couplets. Semi-elevated style. 
+Heroic couplets. Semi-elevated style. 
 
 ==== Setting 
 A beautiful, wooded trail in the Appalachian Mountains. +
@@ -762,7 +762,7 @@ The tires screech as the car fish-tails, and she goes spinning into the shoulder
 == Features of the Text
 
 === Style
-(Most of?) the book will be written in iambic hexameter couplets, also known as "heroic couplets." This takes after the style of Alexander Pope (translating Homer) and John Dryden (translating Virgil). My goal is to resurrect classical epic poetry for our current cultural milieu, in a way that is aesthetically pleasing and accessible enough for the mainstream.
+(Most of?) the book will be written in iambic pentameter couplets, also known as "heroic couplets." This takes after the style of Alexander Pope (translating Homer) and John Dryden (translating Virgil). My goal is to resurrect classical epic poetry for our current cultural milieu, in a way that is aesthetically pleasing and accessible enough for the mainstream.
 
 This is not just a gimmick, I hope, but serves a more immediate purpose for the narrative. The portions in verse are written from a heavenly, angelic perspective (see below), and the poetic format is intended to evoke that transcendence.
 
