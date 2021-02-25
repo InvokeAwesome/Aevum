@@ -1,0 +1,24 @@
+= Aevum
+
+(insert thought provoking quote here)
+
+== What's all this, then?
+Aevum is a new kind of novel. It combines elements of science fiction with speculative theology, and tells its bizarre story through both prose and classical epic poetry. Its contents aren't the only novel novel features: it is also open source, hosted on GitHub for anyone to copy, modify, critique, or contribute to.
+
+=== Synopsis
+I personally prefer to go into stories as blind as possible, but if you want a synopsis, here it is:
+
++++ <details><summary> +++
+*Synopsis*
++++ </summary><div> +++
+****
+The story takes place in 2015, in Columbus, Ohio. We follow Grace, a college student studying to be a disaster relief medic. She has dreamed of doing heroic deeds since she was young, although until a few years ago, the deeds she envisioned were of a more fantastical nature than first aid. 
+
+Her original idea was to be whisked away to another dimension, where she would doubtless prove instrumental in saving the world alongside a collection of beautiful, magical heroes. Some of them would probably even fall in love with her, so she made sure not to waste time dating any merely terrestrial candidates.
+
+Of course, she didn't come up with these cringe-worthy ideas in a vacuum. She was simply an exceptionally optimistic product of the "Isekai" genre, wherein the premise invariably involves a normal protagonist from our world being magically transported to some other, much cooler world. You could pretty much sum it up by saying, "she watched too much anime."
+
+Well, not long after she had finally given up on these notions, they actually come true! There is now real, undeniable proof of the sudden appearance of strange otherworldly people with incredible abilities. But unlike in her favorite shows, they don't show up directly in her path, but instead are stranded, hunted down, and wounded on the other side of the earth. Grace decides that this is her calling, so she embarks on a journey that risks everything to find them and help them. Perhaps she would finally become the savior she always wanted to be!?
+
+But something is resisting her... dark, supernatural forces seem to have set themselves up against her, instilling dread and causing misfortune at every turn. Fell visions haunt her sleep, and deadly calamities plague her waking. She finds that she has thrust herself into the center of a conflict of a cosmic scale, involving powers far beyond her reckoning. Will her faith in herself be enough?
++++ </div></details> +++
