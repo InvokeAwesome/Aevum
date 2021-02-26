@@ -3,7 +3,7 @@
 (insert thought provoking quote here)
 
 == What's all this, then?
-Aevum is a new kind of novel. It combines elements of science fiction with speculative theology, and tells its bizarre story through both prose and classical epic poetry. Its contents aren't the only novel novel features: it is also open source, hosted on GitHub for anyone to copy, modify, critique, or contribute to.
+Aevum is a new kind of novel. It combines elements of science fiction with speculative theology, and tells its bizarre story through both prose and classical epic poetry. Its contents aren't its only novel novel features: it is also open source, hosted on GitHub for anyone to copy, modify, critique, or contribute to.
 
 === Synopsis
 I personally prefer to go into stories as blind as possible, but if you want a synopsis, here it is:
@@ -22,6 +22,12 @@ Well, not long after she had finally given up on these notions, they actually co
 
 But something is resisting her... dark, supernatural forces seem to have set themselves up against her, instilling dread and causing misfortune at every turn. Fell visions haunt her sleep, and deadly calamities plague her waking. She finds that she has thrust herself into the center of a conflict of a cosmic scale, involving powers far beyond her reckoning. Will her faith in herself be enough?
 +++ </div></details> +++
+
+=== License
+
+I have selected a Creative Commons license for this novel. You can read it in its entirety LICENSE.md#[here], but the gist is that anyone can copy and modify the text as much as they want, except they can't use it for commercial purposes without permission.
+
+I'm a software developer by day, and I know from first-hand experience that an open model of development yields better quality results tban a closed one. I care more about the quality of this story than I do about having all of the credit for writing it.
 
 == Collaboration
 
@@ -44,7 +50,7 @@ There are several reasons I chose git:
 1. Change management is good for any complex, text-based work
 1. Every time I push changes, it notifies the Discord channel. If you follow the link in the notification, you can see what changed. Commits can be viewed and commented on individually in GitHub, so collaborators and advisors can keep up with our progress.
 1. All changes are preserved forever in a historical format. This enables interesting textual archaeology.
-1. It allows for branching different versions of the text. This is nice for trying things out while developing the text, but also enables in a unique way a branching "multiverse" narrative. You can have multiple "timelines" exist in multiple branches in git. After the audience finishes reading the primary branch, they can use a diff comparison against other branches to see how they differ.
+1. It allows for branching different versions of the text. This is nice for trying things out while developing the text, but also enables in a unique way a branching "multiverse" narrative. You can have multiple "timelines" exist in multiple branches in git. After the audience finishes reading the primary branch, they can use a diff comparison against other branches to see how they differ, and see other ways things could have turned out. It's a whole new breed of fanfiction.
 1. It also powerfully enables collaboration. People can leave feedback via GitHub issues, which can be linked to actual text changes, and can also have "pull requests" attached to them where people can propose changes themselves. If anyone has an interest in doing so, they could wind up contributing a substantial amount to the end product.
 1. Related to the above two points, there is the interesting fact that the GitHub collaboration model relies on "forking" (making a copy of) the repository. Anyone can fork the book and make their own edits to their own copy, essentially creating a new timeline in the multiverse. (I would maintain a list of canonical timelines, pointing to different forks that I believed were believable and worthy to be officially recognized.)
    
