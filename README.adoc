@@ -21,11 +21,14 @@ Of course, she didn't come up with these cringe-worthy ideas in a vacuum. She wa
 Well, not long after she had finally given up on these notions, they actually come true! There is now real, undeniable proof of the sudden appearance of strange otherworldly people with incredible abilities. But unlike in her favorite shows, they don't show up directly in her path, but instead are stranded, hunted down, and wounded on the other side of the earth. Grace decides that this is her calling, so she embarks on a journey that risks everything to find them and help them. Perhaps she would finally become the savior she always wanted to be!?
 
 But something is resisting her... dark, supernatural forces seem to have set themselves up against her, instilling dread and causing misfortune at every turn. Fell visions haunt her sleep, and deadly calamities plague her waking. She finds that she has thrust herself into the center of a conflict of a cosmic scale, involving powers far beyond her reckoning. Will her faith in herself be enough?
+
+****
 +++ </div></details> +++
+
 
 === License
 
-I have selected a Creative Commons license for this novel. You can read it in its entirety LICENSE.md#[here], but the gist is that anyone can copy and modify the text as much as they want, except they can't use it for commercial purposes without permission.
+I have selected a Creative Commons license for this novel. You can read it in its entirety link:LICENSE.md#[here], but the gist is that anyone can copy and modify the text as much as they want, except they can't use it for commercial purposes without permission.
 
 I'm a software developer by day, and I know from first-hand experience that an open model of development yields better quality results tban a closed one. I care more about the quality of this story than I do about having all of the credit for writing it.
 
@@ -39,7 +42,7 @@ Join us on our https://discord.gg/BdbMaqYy[Discord channel], which is where the 
 
 *#aevum_meta:* This is for discussing the project at the project level, like about how to contribute, what's going on, etc.
 
-=== Git amd GitHub
+=== Git and GitHub
 
 The primary source material is and always will be hosted in a public git repository.
 
@@ -50,7 +53,7 @@ There are several reasons I chose git:
 1. Change management is good for any complex, text-based work
 1. Every time I push changes, it notifies the Discord channel. If you follow the link in the notification, you can see what changed. Commits can be viewed and commented on individually in GitHub, so collaborators and advisors can keep up with our progress.
 1. All changes are preserved forever in a historical format. This enables interesting textual archaeology.
-1. It allows for branching different versions of the text. This is nice for trying things out while developing the text, but also enables in a unique way a branching "multiverse" narrative. You can have multiple "timelines" exist in multiple branches in git. After the audience finishes reading the primary branch, they can use a diff comparison against other branches to see how they differ, and see other ways things could have turned out. It's a whole new breed of fanfiction.
+1. It allows for branching different versions of the text. This is nice for trying things out while developing the text, but also enables in a unique way a branching "multiverse" narrative. You can have multiple "timelines" exist in multiple branches in git. After the audience finishes reading the primary branch, they can use a diff comparison against other branches to see how they differ, and see other ways things could have turned out. It could give birth to a whole new breed of fanfiction.
 1. It also powerfully enables collaboration. People can leave feedback via GitHub issues, which can be linked to actual text changes, and can also have "pull requests" attached to them where people can propose changes themselves. If anyone has an interest in doing so, they could wind up contributing a substantial amount to the end product.
 1. Related to the above two points, there is the interesting fact that the GitHub collaboration model relies on "forking" (making a copy of) the repository. Anyone can fork the book and make their own edits to their own copy, essentially creating a new timeline in the multiverse. (I would maintain a list of canonical timelines, pointing to different forks that I believed were believable and worthy to be officially recognized.)
    
