@@ -5,6 +5,8 @@
 
 include::vars.adoc[]
 
+mathaddition:[{mc_trauma-age} 100]
+
 = Aevum Notes
 
 == Plot Outline
