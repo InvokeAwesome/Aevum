@@ -3,68 +3,6 @@
 :toclevels: 4
 :imagesdir: "images/"
 
-// Main Character
-:mc_name: Grace
-:mc_surname: Ahn
-:mc_heading: {mc_name} {mc_surname}
-:mc_outset-age: 25
-:mc_outset-location: Columbus, OH
-:mc_ethnicity: Korean-American
-:mc_native-language: Korean
-:mc_trauma-age: 11
-:mc_acceptance-age: 11th grade
-:mc_sibling_relationship: older sister
-
-// Mother
-:mom_name: Min-ji
-:mom_heading: {mom_name} {mc_surname}
-
-// Father
-:dad_name: TBD
-:dad_heading: {dad_name} {mc_surname}
-
-// Sibling
-:mc_sibling: younger brother
-:mc_sibling-c: Younger Brother
-:sib_gender: boy
-:sib_name: Yoon
-:sib_heading: {sib_name} {mc_surname}
-:sib_pro: his
-:sib_pro-c: His
-:sib_trauma-age: 8
-
-// Other world
-:ow_group-nickname: B-Team
-:ow_name: Floodless World
-:ow_religion: Melchizidekian Divine Cult
-
-// Other-worlder appearance in our world
-:owa_location: Melbourne, Australia
-:owa_month: July 
-
-// Zack
-:zk_true-name: Tsadq
-:zk_nickname: Zack
-:zk_header: {zk_nickname}
-:zk_outset-age: 295
-
-// Eve
-:ev_true-name: Hyav
-:ev_nickname: Eve
-:ev_header: {ev_nickname}
-:ev_outset-age: 295
-
-// Jason
-:js_nickname: Jason
-:js_header: {js_nickname}
-
-// Raynor
-:ry_nickname: Raynor
-
-// Guardian Angel
-:ga_name: {mc_name}'s Guardian Angel
-:ga_heading: {ga_name}
-
 = Aevum Notes
 
 == Plot Outline
@@ -855,7 +793,9 @@ She is a decorated EMT with 15 years of professional first aid experience by the
 
 She is married to <<{dad_heading}, {dad_name}:>>, and is the mother of <<{mc_heading}, {mc_name}:>> and <<{sib_heading}, {sib_name}:>>
 
+==== Appearance
 
+She is lithe and athletic even at  but plain.
 
 '''
 '''
