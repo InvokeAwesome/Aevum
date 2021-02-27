@@ -13,10 +13,15 @@
 :mc_native-language: Korean
 :mc_trauma-age: 11
 :mc_acceptance-age: 11th grade
+:mc_sibling_relationship: older sister
 
 // Mother
 :mom_name: Min-ji
 :mom_heading: {mom_name} {mc_surname}
+
+// Father
+:dad_name: TBD
+:dad_heading: {dad_name} {mc_surname}
 
 // Sibling
 :mc_sibling: younger brother
@@ -71,7 +76,7 @@ Heroic couplets. Semi-elevated style.
 
 ==== Setting 
 A beautiful, wooded trail in the Appalachian Mountains. +
-Midday.
+Midmorning.
 
 ==== Opening Characters
 [horizontal]
@@ -91,20 +96,24 @@ Hair messy. Bowl cut.  +
 Star Trek print T-shirt  +
 Sweatpants  +
 Older shoes, starting to fray. White tube socks.  +
-Glasses, low prescription
+Glasses, low prescription +
+Sweaty and tired +
+Carrying a fairly heavy pack for his size
 
 ==== Narratitve
 
 The above characters are hiking together along the side of a river, heading down the mountain.  +
 
-They all stop to get a drink.  +
+They take a break, because the {sib_gender} is tired. He sits on some wet moss and gets his tush dampened. His {mc_sibling_relationship} sees and makes fun of them, which starts an argument.   +
+
+Mother meanwhile hangs up a gravity water filter and diffuses the situation.
 
 Mother [in {mc_native-language}]::
 "Kids, come put your hand in this river! It feels amazing."
 
 They do so, and it's surprisingly cold, like ice water.  +
 
-They watch her take out a filter and process some water into their empty thermos jugs. +
+They watch the filter process some water into their empty thermos jugs. +
 
 They all take deep draughts. It's the most refreshing, delicious water they've ever tasted.  +
 
@@ -840,6 +849,11 @@ She is sensitive and has a good sense of how other people feel, so she’s basic
 
 === {mom_heading}
 
+==== Overview
+
+She is a decorated EMT with 15 years of professional first aid experience by the time {mc_name} is {mc_trauma-age}. +
+
+She is married to <<{dad_heading}, {dad_name}:>>, and is the mother of <<{mc_heading}, {mc_name}:>> and <<{sib_heading}, {sib_name}:>>
 
 
 
