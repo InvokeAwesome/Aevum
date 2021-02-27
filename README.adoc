@@ -32,6 +32,11 @@ I have selected a Creative Commons license for this novel. You can read it in it
 
 I'm a software developer by day, and I know from first-hand experience that an open model of development yields better quality results tban a closed one. I care more about the quality of this story than I do about having all of the credit for writing it.
 
+== Reading the things
+
+On mobile, you might have to click "View Code."
+
+
 == Collaboration
 
 === Discord
@@ -61,4 +66,10 @@ When complete, I will publish the book in print, ebook, and audiobook formats co
 
 === How to propose changes
 
+First, you have to https://github.com/join[create a GitHub account]
+
 If you see something that you think could be improved, you can open an https://github.com/InvokeAwesome/Aevum/issues[Issue].
+
+If you have precise changes that you want to propose, you can do so https://docs.github.com/en/github/managing-files-in-a-repository/editing-files-in-another-users-repository[in the browser] without installing anything. 
+
+If you're a power-user, you don't need any instructions on how to fork and clone the repo on your machine. Here's some https://docs.asciidoctor.org/asciidoctor/latest/tooling/[AsciiDoc tooling] you might find useful.
