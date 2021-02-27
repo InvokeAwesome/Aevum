@@ -36,6 +36,11 @@ I'm a software developer by day, and I know from first-hand experience that an o
 
 On mobile, you might have to click "View Code."
 
+To read the current draft of the story, start reading each file under `story/` in numerical order, starting with 0. 
+
+Poetic chapters are called _metrum_, and prosaic chapters are called _prosa_. I think it's Latin.
+
+If you want to read ahead, there's a detailed outline in link:doc/notes.adoc#. I tried to hide spoilers if you want to read through it, but it is primarily my author's notes, so it's meant to be thorough rather than dramatic. There are also character, place, philosophy, and history notes in there. 
 
 == Collaboration
 
