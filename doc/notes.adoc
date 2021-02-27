@@ -5,7 +5,7 @@
 
 include::vars.adoc[]
 
-math:[{mc_trauma-age} + 100]
+math:[1 + 100]
 
 = Aevum Notes
 
