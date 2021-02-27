@@ -44,7 +44,7 @@
 :zk_nickname: Zack
 :zk_header: {zk_nickname}
 :zk_outset-age: 295
-it's
+
 // Eve
 :ev_true-name: Hyav
 :ev_nickname: Eve
