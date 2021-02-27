@@ -34,7 +34,7 @@ I'm a software developer by day, and I know from first-hand experience that an o
 
 == Reading the things
 
-On mobile, you might have to click "View Code."
+On mobile, you might have to click "View code."
 
 To read the current draft of the story, start reading each file under `story/` in numerical order, starting with 0. 
 
@@ -43,6 +43,16 @@ Poetic chapters are called _metrum_, and prosaic chapters are called _prosa_. I 
 If you want to read ahead, there's a detailed outline in link:doc/notes.adoc#. I tried to hide spoilers if you want to read through it, but it is primarily my author's notes, so it's meant to be thorough rather than dramatic. There are also character, place, philosophy, and history notes in there. 
 
 == Collaboration
+
+=== Contribution guide
+
+I have our notes and our actual story written in the https://asciidoctor.org/docs/what-is-asciidoc/#what-is-asciidoc[AsciiDoc] file format. This gives us some powerful programmatic features that traditional .doc type files can't support. 
+
+The most common consideration when contributing to a _metrum_ chapter is that AsciiDoc requires a `+` character to force a line break between two consecutive lines. I may eventually start using variables in the chapters, but not until GitHub https://github.com/github/markup/issues/1095[gets their act together.] Most of the interesting AsciiDoc stuff shows up in link:doc/notes.adoc#.
+
+Speaking of which, if you want to try contributing substantial plot or dialogue, you need to be thoroughly familiar with that entire document. If you're just critiquing, helping with wording, or fixing typos, that's obviously not necessary.
+
+Final warning: this may be open source, but I'm still very picky and opinionated! Contributions need to be top shelf to make it in. If I reject any proposed changes, I'll be sure to say why, and try to leave the door open if we can make it work. And I also want to be humble and receptive to criticism, or try to be open minded if a lot of people think a proposed change is an improvement on what I've written.
 
 === Discord
 
