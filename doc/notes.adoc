@@ -3,6 +3,8 @@
 :toclevels: 4
 :imagesdir: "images/"
 
+include::vars.adoc[]
+
 = Aevum Notes
 
 == Plot Outline
