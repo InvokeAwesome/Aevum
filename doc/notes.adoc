@@ -5,8 +5,6 @@
 
 include::vars.adoc[]
 
-math:[1 + 100]
-
 = Aevum Notes
 
 == Plot Outline
